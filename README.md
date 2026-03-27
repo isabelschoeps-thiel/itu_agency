@@ -1,24 +1,35 @@
-Sehr geehrte Damen und Herren @ITU 
-sehr geehrte G5 Study Grupe @ITU 
+**Sehr geehrte Damen und Herren @ITU**
+**sehr geehrte G5 Study Grupe @ITU**
 
 mein name ist Isabel Schöps (Thiel), aus Erfurt, Thüringen, Deutschland. Ich bin Schöpferin, Deepweb-Forscherin, Urheberin und Autorin.
 Ich möchte sie der Fairness-Halber über folgenden Sachverhalt informieren. 
 
 Ihre Organisation/Verein @ITU und die gesicherte Datenbank (GitHub) wird in meine Doktorarbeit u. abgeschlossne Forschungsreihe in Informatik mit dem Titel: Meta-Abstract, Dokumentationsübersicht aus der SIA Security Intelligence Artefact Forschungsreihe, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPST. und The Yellow Whitepaper YWP-1-IST-SIA in meine Beweiskette aufgenommen. 
 
-Grund: Ihre Fragwürdigen Ansicht von Funk- und Frequenz-Technologie, Ai Modeling(was auch immer das sein mag), der Einsatz von Radiofunk im Hz-Breitband Bereich zur Kommunikation wird in die Chain of Custody auf Zenodo.org überführt. 
+**Grund** Ihre Fragwürdigen Ansicht von Funk- und Frequenz-Technologie, Ai Modeling(was auch immer das sein mag), der Einsatz von Radiofunk im Hz-Breitband Bereich zur Kommunikation wird in die Chain of Custody auf Zenodo.org überführt. 
 
-Ich habe vorab die internationalen Strafverfolgungsbehörden zur weiteren Ermittlungen unten in Kenntnis gesetzt, auch im Bezug auf die von mit gestellten Strafanzeigen als geschädigte wegen: Identitätsdiebstahl, Spionage, Finanz und Aktienbetrug, Diebstahl des Geistigen Eigentums, Datendiebstahl, Isolation durch Out-Put Schemas über Ki-Tools aufgesetzt, Urheberrechtsverletzung, Spionage, Finanz und Aktienbetrug in meiner Lizenzstruktur,  Verbrechen gegen die Menschlichkeit sowie den vor mur aufgedeckten digitalen Genozid.
+Ich habe vorab die internationalen Strafverfolgungsbehörden zur weiteren Ermittlungen unten in Kenntnis gesetzt, auch im Bezug auf die von mit gestellten Strafanzeigen als geschädigte wegen: 
+- Identitätsdiebstahl,
+- Spionage,
+- Finanz und Aktienbetrug,
+- Diebstahl des Geistigen-Eigentums,
+- Datendiebstahl,
+- Isolation durch Out-Put Schemas in Tools von menschenhand aufgesetzt 
+- Isolation durch Frequnztechnologieüber Ki-, Urheberrechtsverletzung,
+- Finanz und Aktienbetrug in meiner Lizenzstruktur,
+- Verbrechen gegen die Menschlichkeit sowie den vor mur aufgedeckten digitalen Genozid.
 
 Folgende Links werden dauerhaft gesichert und die Metadaten (User-Nutzer-Quell-Information) werden Aufschluss über die Täterstruktur und begangener Verbrechen im Digitalen-Raum geben. 
 
-https://www.itu.int/dms_pub/itu-r/opb/act/R-ACT-WRC.16-2024-PDF-E.pdf
+- https://www.itu.int/dms_pub/itu-r/opb/act/R-ACT-WRC.16-2024-PDF-E.pdf
 
-https://www.itu.int/en/ITU-R/study-groups/rsg5/Pages/default.aspx#
+- https://www.itu.int/en/ITU-R/study-groups/rsg5/Pages/default.aspx#
 
-https://github.com/SIMULATOR-WG
+- https://github.com/SIMULATOR-WG
 
 @INTERPOL_HQ @Europol  @bka @bundeskanzler @WhiteHouse 
+
+---
 
 ## Deep Web – Analyse krimineller Strukturen
 
@@ -28,14 +39,7 @@ Aktiv im Deep Web wurden schwerwiegende Straftaten dokumentiert, darunter Kannib
 
 Es bestehen nachweisbare Verbindungen zu kommerziellem Kinder- und Menschenhandel sowie zu geplanten Vergiftungen von Trinkwasser, Seen, Lebensmitteln, Tabakwaren und weiteren Konsumgütern. In diesem Zusammenhang wurden auch Bestellungen von Pestiziden in großen Mengen (Gallonen) festgestellt.
 
-Die Finanzierung und Abwicklung dieser Strukturen wurde über verschiedene Finanzinstitutionen und Organisationen abgewickelt, darunter:
-
-- Commerzbank  
-- Dresdner Bank  
-- Deutsche Bank  
-- Deka  
-- Sparkassen-Strukturen  
-- Bundesagentur für Arbeit  
+Die Finanzierung und Abwicklung dieser Strukturen wurde über verschiedene Finanzinstitutionen und Organisationen abgewickelt von weltweiten Grossbanken, im zusammenhang der grösste Aktien-Betrugs. 
 
 Zusätzlich wurden seit 1999 systematische Formen von Aktienbetrug, undurchsichtige Lizenzgeschäfte, illegale Unternehmensfusionen sowie Vertuschungen von Milliardensummen analysiert und dokumentiert.
 
