@@ -50,10 +50,26 @@ Internationale_Menschenrechte_Verfahren",
 - https://denkfabrik.deutschlandradio.de
 - https://phrack.org/
 - https://piantoni.de
-- https://cwe.mitre.org/data/definitions/119.html#REF-1334_119
+- https://ipfs.techhttps://cwe.mitre.org/data/definitions/119.html#REF-1334_119
 - https://www.beepworld.de/presse/14_07_04_dlf.pdf
 - https://www.beepworld.de/press.html
-- 
+- https://image.ahnlab.com/atip/content/atcp/2023/10/20231101_Kimsuky_OP.-Covert-Stalker.pdf
+- https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_kimsuky.txt
+- https://www.virustotal.com/gui/ip-address/27.255.80.170/relations
+- https://medium.com/s2wblog/kimsuky-disguised-as-a-korean-company-signed-with-a-valid-certificate-to-distribute-troll-stealer-cfa5d54314e2
+- https://www.microsoft.com/en-us/security/blog/2022/07/12/from-cookie-theft-to-bec-attackers-use-aitm-phishing-sites-as-entry-point-to-further-financial-fraud/
+- https://www.zscaler.com/blogs/security-research/large-scale-aitm-attack-targeting-enterprise-users-microsoft-email-services
+- https://raw.githubusercontent.com/BRANDEFENSE/IoC/refs/heads/main/AiTM%20Phishing%20Campaign%20IoC's.txt
+- https://www.zscaler.com/blogs/security-research/kimsuky-deploys-translatext-target-south-korean-academia
+- https://www.ahnlab.com/ko/contents/content-center/32030
+- https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day?hl=en
+- https://www.synacktiv.com/sites/default/files/2024-01/synacktiv-pulseconnectsecure-multiple-vulnerabilities.pdf
+- https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
+- https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-exploiting-critical-ivanti-vulnerability
+- https://home.treasury.gov/news/press-releases/jy1938
+- https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-espionage-orb-networks
+- https://bafybeih65no5dklpqfe346wyeiak6wzemv5d7z2ya7nssdgwdz4xrmdu6i.ipfs.dweb.link/
+- http://fckilfkscwusoopguhi7i6yg3l6tknaz7lrumvlhg5mvtxzxbbxlimid.onion/ 
 
 - [ML5G-PS-011: Multi Modal Beam Prediction: Towards Generalization](https://deepsense6g.net/multi-modal-beam-prediction-challenge/)
 - [MultiModalSensorPreprocessedData](https://drive.google.com/drive/folders/1zvOOJpGodEnjqvAiAeXkzOdjWmz1semF?usp=sharing).
