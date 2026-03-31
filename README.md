@@ -1,6 +1,4 @@
-**Sehr geehrte Damen und Herren @ITU**
-**sehr geehrte G5 Study Grupe @ITU**
-
+## Deepweb Forschungs-Dokumentation
 mein name ist Isabel Schöps (Thiel), aus Erfurt, Thüringen, Deutschland. Ich bin Schöpferin, Deepweb-Forscherin, Urheberin und Autorin.
 
 In meiner Doktorarbeit u. abgeschlossne Forschungsreihe in Informatik mit dem Titel: Meta-Abstract, Dokumentationsübersicht aus der SIA Security Intelligence Artefact Forschungsreihe, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPST. und The Yellow Whitepaper YWP-1-IST-SIA in meine Beweiskette aufgenommen. 
