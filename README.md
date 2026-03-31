@@ -56,3 +56,35 @@ Ich habe mehrfach und das bereit seit 2017, strafrechtlich die zur Anzeige gebra
 - https://www.itu.int/en/ITU-R/study-groups/rsg5/Pages/default.aspx#
 
 - https://github.com/SIMULATOR-WG
+
+---
+
+## Meine Signatur, als Autorin, Deepweb-Forscherin:
+
+**Auftraggeberin, Autorin, Urheberin, Deepweb-Forscherin:**
+Ich, Frau Isabel Schöps (geb. Thiel)  
+
+**Zeitstempel der Eintragung:** Dienstag, 31.03.2026, 18:09:00 Uhr (MEZ)  
+
+**Wohnort der Autorin:**
+Frau Isabel Schöps geb. Thiel (*16.07.1983),
+Erste Etage, Wohnung 13, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland
+
+**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
+
+**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
+
+**Telefon:** 0049-162-181-9565
+
+- [**OrcID: Isabel Schöps Thiel 0009-0003-4235-2231**](https://orcid.org/0009-0003-4235-2231)
+- [**OrcID: SI-IST Isabel Schöps 0009-0006-8765-3267**](https://orcid.org/0009-0006-8765-3267)
+
+**Gutachten:**
+SIA – Security Intelligence Artefact 
+
+**Internationale Kennung:**
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+
+**Referenzdokument:**
+The Yellow Whitepaper (YWP-1-IST-SIA) 
+
