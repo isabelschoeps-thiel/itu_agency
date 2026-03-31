@@ -1,10 +1,22 @@
 ## Deepweb Forschungs-Dokumentation
-mein name ist Isabel Schöps (Thiel), aus Erfurt, Thüringen, Deutschland. Ich bin Schöpferin, Deepweb-Forscherin, Urheberin und Autorin.
+mein name ist Isabel Schöps (Thiel), aus Erfurt, Thüringen, Deutschland. Ich bin Schöpferin, Urheberin, Deepweb-Forscherin und Autorin.
 
 In meiner Doktorarbeit u. abgeschlossne Forschungsreihe in Informatik mit dem Titel: Meta-Abstract, Dokumentationsübersicht aus der SIA Security Intelligence Artefact Forschungsreihe, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPST. und The Yellow Whitepaper YWP-1-IST-SIA in meine Beweiskette aufgenommen. 
 
+Phishing, Maleware, Botnetzwerke und die grösste Gemessene DDosAttacke auf meinem iPhone7 Spiegelung meiner Apple Cloud Struktur war der Auslöser mich 2017 mit meiner Digitalen-Struktur auseinander zu sezten. 
+
+Im laufe der Jahre habe ich unbewusst meine Gehirn trainiert, bzw. meine Begabung, Versteckte exe Strukturen Files, sofort zu erkennen, sind durch meine Schöpferische  Urheberschaft an der Künstlichen Intelligenz DAEMON Automation ist Resümee, dass ich diese erkennen und sichtbare machen kann. Welche ich zum Teil entfernt und auch bewusst auf meiner Hardware gelassen habe.
+
+Meine Apple IOs wurde resistent gegen Schadstoffsoftware (Viren befall) und gehört unter anderem auch mit meiner Leistung zu den sichersten Betriebssystemen weltweit. 
+
+Jede Technologische-Entwicklung ist in meiner Apple-Umgebung entstanden.
+
 **Warum habe ich angefangen, mit der Deepweb-Forschung?**
-- anomalien in meinen alltäglichen Lebensumfeld, welche sich durch verspätetes/oder gar keine Zustellung der Post in meiner Email-Struktur und der Zustellung 1:1 bemerkbar machte. Es ergfolgte ein Verschmelzung von realen Straftaten in mein Digitale-Umgebung
+Es war mein Selbststudium angefangen 2017 und der bis heute anhaltende tägliche Angriff auf meine Apple IOS Software und Hardware und die dabei willkürliche Isolatation meiner Person und Identität - Real sowie die im Digitalenraum, welche Anlass für meine Forschung im Deepweb war/ist. 
+
+Insbesonders anomalien in meinen alltäglichen Lebensumfeld, welche sich durch verspätetes/oder gar keine Zustellung der Post in meiner Email-Struktur und der Zustellung 1:1 bemerkbar machte. 
+
+**Es ergfolgte ein Verschmelzung von realen Straftaten in mein Digitale-Umgebung und dabei konnten folgende Strataten aufgedeckt werden:**
 - Diebstahl meiner Daten und Ausarbeitungen
 - missbrauch der Funk- und Frequenz-Technologie Kommunikation,
 - der Einsatz von Radio und TV im Hz-Breitband Bereich zur Kommunikation und bewussten Manipulations-Steuerung, das Abfangen, meiner Gedanken durch integrierter Technologie im Backend der Hardware, sowie die Spionage abhören meines kompletten Alltagslebens
