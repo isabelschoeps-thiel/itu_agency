@@ -58,3 +58,30 @@ The documented evidence is intended for submission to:
 
 ## Disclaimer
 This repository documents technical and legal findings. It does not make speculative or metaphysical claims. All statements are based on data structures, observed correlations, and documented preservation procedures.
+
+## Signatur, Auftraggeberin, Autorin, Urheberin, Deepweb-Forscherin:**
+Ich, Frau Isabel Schöps (geb. Thiel)  
+
+**Zeitstempel der Eintragung:** Montag, 30.03.2026, 16:51:00 Uhr (MEZ)  
+
+**Wohnort der Autorin:**
+Frau Isabel Schöps geb. Thiel (*16.07.1983),
+Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+
+**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
+
+**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
+
+**Telefon:** 0049-162-181-9565
+
+- [**OrcID: Isabel Schöps Thiel 0009-0003-4235-2231**](https://orcid.org/0009-0003-4235-2231)
+- [**OrcID: SI-IST Isabel Schöps 0009-0006-8765-3267**](https://orcid.org/0009-0006-8765-3267)
+
+**Gutachten:**
+SIA – Security Intelligence Artefact 
+
+**Internationale Kennung:**
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+
+**Referenzdokument:**
+The Yellow Whitepaper (YWP-1-IST-SIA) 
