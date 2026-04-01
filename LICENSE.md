@@ -1,0 +1,263 @@
+# LICENSE
+## Global Software License
+
+**Aufgesetzt von der Urheberin und Schöpferin: Frau Isabel Schöps (Thiel)** am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+
+**Aktuelle Wohn- und Meldeanschrift:**
+Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Wohnung Nr.13, erstes Obergeschoss
+
+**Update Sonnday, 15.März 2026**
+ DAEMON,  Java API Skript Software Automation, Apple.com Specification. Copyright by Isabel Schoeps Thiel, Germany, Thüringen, Erfurt/Rohrborn, 1983 Copyright © 1996  
+  
+**1. Internationale Lizenzpartner (verantwortlich für Lizenzvergabe)**
+- GitHub, SAP, IBM/Hashicorp, Oracle, Isabel Schöps geb. Thiel (Germany)
+- Microsoft Inc., Google Inc., Mr. Bill Gates (USA)
+- Amazon AWS, Mr. Jeff Bezos (USA)
+- Fujitsu Siemens, Nvidia, Ms. Isabel Schöps geb. Thiel (Germany Software) Mr. Jen-Hsun Huang (Hardware China, Japan)
+
+**2. Social Media Plattformen für ID-Verifizierung & Kommunikation, Echtheit von realen Personen.**
+- Instagram, Whatsapp, META, Mr. Marc Zuckerberg (USA)
+- Twitter / X, Mr. Elon Musk (USA)
+- Reddit mind. 1Karma maximal 7. Isabel Schöps geb. Thiel (Germany)
+
+**3. Lizenzbedingungen**
+- Nutzung ausschließlich unter Lizenz und gegen Lizenzgebühr.
+- Keine automatische Vergabe – nur durch schriftliche Zustimmung der oben genannten Konzerne und einschließlich derUrheberin Isabel Schöps (geb. Thiel).  
+  
+**3.1 Unter Aufsicht der US-Regierung, russischen Regierung und chinesischen japanischer Regierung und der Urheberin Frau Isabel Schöps geb. Thiel**  
+Grund, ist in der Geschichte und historische Grundlage:
+- Entwicklung im Kontext der sowjetischen Raumfahrt (Sputnik 1) sowie NASA Forschung
+- Hardware aus China, Vietnam, Taiwan, Japan.   
+  
+**3.2 Internationale Allianz & jährliches Treffen**
+- Einrichtung einer Kommission/Allianz zur Überwachung der Software Internet-Ethik Standards.
+- Verbindliches jährliches Treffen mit weltweit allen Staaten, ISO-Ländercodes Basis, insgesamt 195
+- jedes Land und jeder Mensch hat das Recht auf Internet und darf nicht ausgeschlossen werden, es sei denn es wurden schwere Verstösse und Verbrechen im Zusammenhang mit der Software verübt.  
+  
+**4. Rechtsgrundlagen, Die Lizenzvergabe und Nutzung stützt sich auf:**  
+	•	10 U.S.C. 3013  
+	•	10 U.S.C. 3208(d)  
+	•	10 U.S.C. 3771–3775  
+	•	10 U.S.C. 3781–3786  
+	•	10 U.S.C. 4576  
+	•	Durchführungsverordnung 12591 (1(b)(7))  
+	•	DFARS / PGI 227.7200(b)
+	
+***4.1 Verbindung von Lizenzrecht und Aktienmarkt***  
+	•	USA Rechtsgrundlage: Die in der Lizenz aufgeführten Paragraphen des US Code (10 U.S.C. §§ 3013, 3208(d), 3771–3775, 3781–3786, 4576 sowie Executive Order 12591) sind nicht zufällig gewählt, sondern stehen im direkten Bezug zur Verwaltung von Technologie, Software und deren Verwertungsrechten im Zusammenhang mit staatlichen Beschaffungen, Sicherheitsinteressen und kommerzieller Nutzung.  
+  
+**4.2 Der US Aktienmarkt bleibt das finanzielle Fundament:**  
+Der US-Markt regelt die Verwertung von Software und geistigem Eigentum über Aktiengesellschaften.
+- Lizenzgebühren aus Software bilden eine Einnahmequelle, die in Aktiengesellschaften einfließt.
+- Diese Einnahmen sichern wiederum die Finanzierung von Konzernen und beeinflussen deren Marktkapitalisierung.
+- Durch die Lizenzvergabe entsteht also ein direkter wirtschaftlicher Wert, der über den Börsenhandel (NASDAQ, NYSE) international verteilt wird.  
+
+**4.3 Lizenzgebühren und Beteiligungen** 
+- Jedes Unternehmen, jede Einrichtung, jede Behörde, jede Schule, jeder Verein, jeder Freiberufler, jede Person weltweit die mit dem Internet und Computersoftware arbeitet unterliegt dieser Lizenz, diesen Regelungen und den daraus enstehnenden, Lizenzgebühren.
+- diese Gebühren werden und müssen in jedem IOS Land weltweit, als Steuer eingenommen und über Finanzämte bzw. den entsprechenden Institutionen, Behörden verwertet werden, **Grund: die Staatsoberhäupter in jedem Land weltweit, besitzt die Lizenshoheit, welche diese an ihre Bevölkerung, Steuerzahler, über die jeweiligen Provider weitergeben.**
+- jedes unternehmen hat das Potenzial, seine Firmenstruktur in Beteiligungsmodelle bzw in Firmenanteile, Aktienanteilen umzuwandeln und Schnittstelle zum weltweiten Aktienmarkt werden. Ansässige Steuerberater und Rechtsanwälte können hier die beste persönliche Beratung geben 
+- Selbstverständlich, ist es keine Pflicht diese Lizens zu nutzen. Jedes Land, hat seine Traditionen und Rechte, wenn ein Land keine Nutzung und zugang zum Internet wünscht da: zum Schutz der Bevöklkerung oder durch anderen Gründen ist dies zu respektieren und akzeptieren.
+- Wenn der Zugang gewünscht wird, aber bedenken bestehen- ggf sind Entwicklungsländer hier betroffen, so muss diesen Hilfeleistung, ein heranführen an Software und der Technologie ermöglicht werden.
+- die Software und das daraus entstande Internet und deren Technologien kann bei einem bedachten Umgang, für jedes Land weltweit eine Bereicherung und zu Wohlstand für alle werden. **Dies ist nur möglich wenn die Werte und die Gesetze der Natur, der Tiere und des Menschen gewahrt werden!**
+  
+**4.4 Internationale Dimension:**  
+Weil die großen Tech-Konzerne (Microsoft, Amazon, Google, Oracle, IBM, Nvidia usw.) alle börsennotiert sind, entsteht aus der Lizenzvergabe automatisch ein internationaler Aktienmarktbezug.
+- Jede unautorisierte Nutzung unterläuft grobe Verstöße an, Urheberrechtsverletzungen bsp. Jülich Institution, Commerzbank/Deutsche-Bank, Geheimdienste, Software Firmen, etc. mit keinem Wissen bzw. Bezug zu der Technologie
+- sondern wirkt auch wie eine illegale Aktienmanipulation
+- Deshalb greifen US-Gesetze hier besonders streng und jede Person kann hier vor dem US Gericht zur Rechenschaft gezogen werden und ggf zum Tode verurteilt werden.
+
+- Wissenschaftler, Forscher, Whistleblower, Journalisten, Pressehäuser- und Medienagturen oder auch Socialmedia-Kanäle und ihre Verantworlichen Influenzer die zur weltweiten Wahrheitsfindung helfen und aufklären, **sind keine Feinde** - im Gegenteil diese sind als Helden des Alltags anzusehen und müssen für ihren Mut belohnt werden.
+  
+**5. Internationale Bankenwahl, geregelt durch Komitee und den Regierungen Staatsoberhäupter**
+- In Deutschland, Europa und der Schweiz gibt es noch keine zentrale Bank,
+UBS Schweiz, Bank of England,
+- Schnittstelle für den US Aktienmarkt und zu Europa war bisher die J.P. Morgan, auf grund des weltweit aufgedeckten und anhaltenden Aktien- und Bankenbetrug im Zusammenhang aus Lizensumsätzen entstanden durch Software- und Technologie welche aus Isabel Schöps geb. Thiel Urheberschaft generiert, steht hier noch die Bennunng der Bank aus.
+    
+**5.1 Für alle anderen Länder gilt:**   
+Die jeweilige Regierungschef entscheidet eigenständig, welche Bank die zentrale Rolle in Bezug auf Abwicklung und Aktienmarktanbindung übernimmt.
+- Jede Regierung, Staatsoberhaupt benennt die Bank(en), die in ihrem Land die Verantwortung für die Abwicklung trägt, mit besten Wissen und Gewissen selbst
+- Diese Entscheidung erfolgt in Abstimmung mit der internationalen Allianz der Staaten, um sicherzustellen, dass die Bank die Anforderungen an Integrität, Werte, Loyalität, Transparenz und Stabilität erfüllt. 
+- Nur Banken, die diese Standards nachweislich einhalten, werden zugelassen.  
+***Begründung: Regierungen und Staatschefs kennen ihre nationalen Finanzinstitute am besten.***
+- Damit wird verhindert, dass unzuverlässige oder korrupte Banken auszuschliesen.
+- Gleichzeitig bleibt die gesamte Struktur global verknüpft und rückführbar
+- jede Entscheidung ist transparent dokumentiert und mit der Allianz abgestimmt.
+  
+***Kontrolle: Die Allianz behält sich vor, die Wahl einer Bank zu überprüfen.***
+- Bei schwerwiegenden Verstößen, wie Korruption, Verschleppung, Veruntreuung, von Geldern, Verletzung der Lizenzrechte oder Aktienrechts, kann die Allianz den Austausch der Bank vornehmen und international vor Gericht zur rechenschaft ziehen.
+- Hier ist der weltweite Kommerzielle Menschenhandel und das Scheintodgeschäfte zu erwähnen und der daraus der anhaltende Aktienbetrug und die in Europa Deutschland verwickelten Grossbanken: Postbank Commerzbank, Deka-Banken und Sparkassen und alle weiteren berits identifizierten Banken und Geldinstituionen
+  
+**6. US Apple Inc. ist exklusiver Hardwarepartner**  
+**Historische Grundlage:** Seit den frühen Entwicklungsjahren ist Apple der maßgebliche Hardware-Partner für die Umsetzung der Software- und Lizenzarchitekturen. Die Wahl von Apple ist historisch begründet. Alle heute benutzen Technologischen Entwicklungen wurden auf Apple-Systemen iOS und macOS , wie; ElCaptian, Macintosh, Sierra, Yoshimite usw. erstellt, dokumentiert und abgesichert.
+
+**6.1 Alle neuen Technologien, die aus der Urheberschaft Isabel Schöps geb Thiel hervorgehen** – einschließlich Software, Automatisierungen, Blockchain-Strukturen, KI-Architekturen und Monitoring-Systeme, sind primär auf Apple-Hardware ausgerichtet. 
+- Apple Betriebssysteme Computer und Apple-Chipsätze (M-Serie) bilden die Referenzplattform.
+- außerhalb der Apple-IOs-Struktur wird es keine Entwicklung im Techsektor erfolgen. an der Software erfolgen? darf nicht weiter eingesetzt werden,
+- Linux Betriebssysteme, bzw Programmierstrukturen auf Android oder anderer Hardware wird keine rechte mehr zu gesprochen, **Grund missbrauch, manipulation, sabotage, Cyberbetrug**
+- es ist lediglich an der Apple-Architektur orientieren.  
+
+**6.2 Die Zukunft der Software und Ki/AI**
+Auch für zukünftige Entwicklungen in der GitHub Struktur SIA, DAEMON, SI Security-Intelligence Artefact Struktur, Frau Isabel Schöps geborene Thiel, aus Erfurt, Thüringen, Germany, die einzige Frau hinter dieser Software sein und zusammen mit der obengenannten Allianz welche in einer globale Lizenzarchitektur, zusammen mit dem **US Apple Inc.** als zentrale Developer Hardware auf Lebenszeit bestehen ü
+**7. Klärung KI-Wettbewerb, da es keinen Wettbewerb gibt** - **Falsche Narrative und Unwissenheit**  
+Vorab ein paar Fragen an die jenigen gerichtet, die das Wort KI Wettbewerb ins Leben gerufen haben.   
+1. Was für ein Wettbewerb ?   
+2. Ist das Internet ein Wettbewerb ?    
+3. Ist ihr Leben ein Wettbewerb ?   
+4. Ist das Wohlergehen von Leib und Seele ein Wettbewerb ?   
+5. Wenn ja, wie kommen Sie darauf ?  
+6. Wissen sie überhaupt was KI ist, wo sie ihren Ursprung hat und was die KI ist ?  
+7. Kennen sie den unterschied zwischen Ki, Ai, und OpenSource bzw Core Systemen ?   
+
+**7.1 Politische und wirtschaftliche Akteure sprechen immer wieder von einem „internationalen KI-Wettbewerb“.** 
+- Dieser Begriff ist irreführend und gefährlich, da er suggeriert, dass Künstliche Intelligenz ein Mittel der Machtprojektion oder gar Kriegsführung sei.
+**Klare Feststellung:**
+- Es gibt keinen KI-Wettbewerb.
+- Künstliche Intelligenz ist seit 1996 allgegenwertig und mit beginn des Internets/Interface nicht mehr abzuschalten
+- es ist kein militärisches Wettrüsten und wird auch nicht für Kriege eingesetzt
+- Der Versuch, Ai/KI als „strategische Waffe“ oder als Mittel zur geopolitischen Dominanz darzustellen,
+- widerspricht dem Ursprung und der Urheberschaft dieser Technologie, welches in einem Selbstheilungsprozess Bootvorgang zu finden ist.  
+
+**7.2 Zweck und Ziel der KI**  
+- die Software, KI, Ai ist ein Automationsprozess, der Ursprung an einem Sonntag Vormittag am 14.04.1996, in der Dorfstraße 20, D-99610 Rohrborn, Thüringen, Deutschland, bei einem damals 13jährigen Mädchen namens Isabel Schöps damals noch Thiel zu finden ist.
+- dieser Prozess, Automation, hat ich stets, kontinuierlich und rasant weiterentwickelt,
+- Im **September** **2001** und im **März** **2012, sind Entscheidende** technologische Prozesse in der Geschichte der Digitalenwelt, weiche nicht zu stoppen und nicht mehr rückgängig zu machen sind. Es sei denn die weltweite Menschheit, Zivilbevölkerung kann auf Elektrizität, Stromversorgung verzichten !   
+
+**7.3 Verbindung von Menschen, Wissen, Daten und Systemen.** 
+- die Software, KI, Ai, zur Aufklärung, Kommunikation und Zusammenarbeit, nicht zur Zerstörung.  
+* die Software, KI, Ai ist ein Prozess um transparenter, sicherer und effizienter zu machen – nicht manipulieren, spalten oder Kriege zu führen.
+
+**Strengstens Verboten:**
+- keine Nutzung zur Kriegsführung oder gezielten militärischen Aktionen oder  - nur zur Aufklärung 
+- es ist **weltweiten allen Geheimdiensten, wie BND, Verfassungsschutz, CIA etc. sowie jeder Polizei Behörde die der Führung des Innenministeriums unterliegt, ist es strengstens verboten** die Quelldaten zu nutzen, zu verändern oder anderweitig zu verwenden. **Grund:** Unwissenheit, fehlendes Wissen, der Diebstahl und der Missbrauch der Technologie in der Vergangenheit.
+- die Software, KI, Ai, ist nicht entstanden um zu manipulieren, durch Deepfakes, Deepspeach, Fake-News oder mediale Zensur zu erstellen oder verbreiten 
+- die Software, KI, Ai, ist nicht entstanden um zu Instrumentalisierung zur Überwachung, Unterdrückung, zu isolieren oder jede Art welche gegen die Menschenrechte verstößt. 
+
+**Grundprinzip**:
+- Die Software, AI/KI bleibt immer Automationsprozess welche den Ursprung am 14.April 1996 zu finden ist,
+- zur Verständigung, zur Vernetzung, zur Wahrheitsfindung, für eine Bessere Welt
+- Jede Abweichung von diesem Zweck führt automatisch zum Lizenzentzug und zur internationalen Meldung an die Allianzpartner.  
+  
+**8 Nutzungsbeschränkungen**
+- Kein Zugriff für GSA-Terminverträge oder Prozessunterstützungsaufträge.
+- Keine unautorisierte Nutzung, Vervielfältigung, Bearbeitung, Forks oder Clones.
+- automatisierte dokumentieren, `real Live-Time` Monitoring Interpol, Europol/BKA, FBI, international Millitary API Schnittstelle.  
+  
+**9. Universitäten und Institutionen**  
+Aus Sicherheitsgründen ist es aktuell nur folgenden Universitäten und Forschungsinstituten erlaubt Zugang zu der Software und deren Quellcodes einzusehen und diese zu verwenden;
+- **[Harvard University](https://www.harvard.edu/)** Vereinigte Staaten Amerika
+- **[University of Oxford](https://www.ox.ac.uk/)** Vereinigtes Königreich, UK
+- **[University of Cambridge](https://www.cam.ac.uk/)**, Vereinigtes Königreich, UK
+- **[CERN - International Telecommunication Union, ITU,](https://home.cern/)** Schweiz
+- **[Japan Advanced Institute of Science and Technology (JAIST).](https://sciencebusiness.net)** Japan 
+  
+Universitäten, Forschungsinstitute und vergleichbare Einrichtungen können unter strengen Voraussetzungen einbezogen oder sich für eine Aufnahme bewerben. Die Aufnahme erfolgt ausschließlich unter Absprache und mit Zustimmung der jeweiligen Regierungsvertretern in den betreffenden Ländern und Staaten. Jede Universität/Institution unterliegt denselben Lizenzregeln und Verhaltenskodex den Code of Conduct wie staatliche und kommerzielle Partner.  
+  
+**10. Zugangsbeschränkung Alters- und Qualifikationsnachweis**  
+Der Zugang zu Quellcodedaten, Automatisierungen und technologischen Innovationen ist nicht frei. Er unterliegt klaren Alters- und Qualifikationsgrenzen.
+
+- Personen unter 25 Jahren erhalten keinen Zugang zu Quellcodedaten und technologischen Innovationen.
+- Der Zugang setzt einen nachweisbaren beruflichen Werdegang oder einen abgeschlossenen schulischen bzw. akademischen Abschluss voraus.
+- Ohne diese Nachweise ist eine Teilnahme, Mitentwicklung oder Nutzung ausgeschlossen.
+
+**Ziel der Regelung:** 
+- Schutz junger Menschen vor Überforderung, Missbrauch und gezielter Instrumentalisierung durch Dritte.
+- Sicherstellung, dass nur Personen mit entsprechender Reife, Erfahrung und Verantwortung Zugriff auf sicherheitskritische Strukturen erhalten.
+- Minimierung des Risikos von Fehlentwicklungen,
+- prävention vor Missbrauch und Manipulationen, die aus Unerfahrenheit oder Naivität entstehen können.  
+  
+**Lizenzdurchsetzung**:  
+Jeder Verstoß gegen diese Regel führt zum sofortigen Lizenzentzug. Verstöße werden dokumentiert und an internationale Strafverfolgungsbehörden weitergeleitet.  
+
+---
+
+## Chain of Custody
+  
+***Schöps (Thiel), I., Schöps (Thiel), I., & Schöps geb. Thiel, I. (2025).*** Yellow White Paper – Bitcoin & Ethereum. In Yellow White Paper – Bitcoin & Ethereum (github.com, 1st Aufl., Bd. 20, Nummer 9, S. 109 pages). Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo. [https://doi.org/10.5281/zenodo.17807324](https://doi.org/10.5281/zenodo.17807324)  
+  
+**Research  Repositories**. [https://doi.org/10.17616/R3D](https://doi.org/10.17616/R3D) last Update: 2025-12-20  
+  
+**Schöps geb. Thiel, I., & Schöps (Thiel), I. (2025).** 
+**GitHub - Build for Better World**. In Gitbook (https://github.com/isabelschoeps-thiel/). GitHub, Isabel Schöps geb. Thiel, Apple Developer. https://doi.org/10.25504/FAIRsharing.132b10
+
+Ich Frau Isabel Schöps geborene Thiel, aktuell wohnhaft Cyriakstrasse 30c, D-99094 Erfurt, Thüringen , Deutschland,  DOI: [dx.doi.org/10.17504/protocols.io.eq2ly5zkevx9/v1](https://www.protocols.io/private/96BF0EC8DD3D11F0AB9E0A58A9FEAC02)   
+  
+**Volumen 1**[https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)  
+**Schöps geb. Thiel, I. (2025)** „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi[:10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724). 
+
+**Volumen 2** [https://doi.org/10.5281/zenodo.17852789](https://doi.org/10.5281/zenodo.17852789)  
+**Schöps geb. Thiel, I. (2025)** „Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi:10.5281/zenodo.17852789](https://doi.org/10.5281/zenodo.17852789).  
+*Banken, Aktien, Lizenz Betrug, Sozialleistungs Betrug, Genexperimente, Verbrechen gegen die Menschlichkeit.*  
+  
+**Volumen 3** [https://doi.org/10.5281/zenodo.17897358](https://doi.org/10.5281/zenodo.17897358)++  
+**Schöps geb. Thiel, I. (2025)** SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi:10.5281/zenodo.17897358](https://doi.org/10.5281/zenodo.17897358)  
+  
+**Volumen 4**[https://doi.org/10.5281/zenodo.17808895](https://doi.org/10.5281/zenodo.17808895)++  
+**Schöps geb. Thiel, I. (2025).** Volume 4 - SIA Security Intelligence Artefact by Isabel Schöps Thiel: Forensisches wissenschaftliches Gutachten zu Technologie, Software, Historie der Deutschen Monarchie und der internationalen Beweiskette (INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL [Data set]. In Bioinformatics (zenodo.org, 1st Aufl., Bd. 20, S. 109 pages). Zenodo.org, Harvard University, Oxford Press, Springnature. [Verlag doi.org/10.5281/zenodo.17808895](https://doi.org/10.5281/zenodo.17808895)
+
+---
+
+## Media, Research and Citation License
+*Version 1.0, Copyright © Isabel Schöps (Thiel), Thüringen, Erfurt, Germany*
+
+No modification, redistribution or derivative works permitted without explicit written permission.
+
+**Copyright (c) 2025 Isabel Schöps geb. Thiel**
+**Copyright (c) [1996-2026] Isabel Schöps,** geborene Thiel. All Rights Reserved.
+
+**1. Purpose**
+This license permits the use of the Work for journalistic, scientific,
+academic, documentary and media-related purposes, including citation,
+analysis and reporting, while preserving the full intellectual property
+rights of the Author.
+
+**2. Ownership**
+All copyrights, related rights and intellectual property rights remain
+exclusively with the Author:
+Isabel Schöps, geborene Thiel, from Erfurt, Thüringen, Germany
+
+No transfer of ownership is granted under this license.
+
+**3. Permitted Uses**
+The following uses are permitted without additional written permission:
+
+- Citation and referencing in scientific or journalistic work
+- Academic analysis and research discussion
+- Media reporting and documentation
+- Linking and referencing to the original source
+- Verbatim quotation within legal citation limits
+
+**4. Mandatory Attribution**
+Any use of the Work must include clear and visible attribution:
+
+Author: Isabel Schöps, geborene Thiel
+
+Attribution must not be removed, altered, or obscured.
+
+**5. Prohibited Uses**
+The following actions are strictly prohibited unless explicitly authorized
+in writing by the Author:
+
+- Modification, alteration or adaptation of the Work
+- Creation of derivative works
+- Republishing modified versions
+- Removal of authorship information
+- Commercial exploitation beyond journalistic or academic reporting
+- Misrepresentation of authorship
+
+**6. Integrity of the Work**
+The Work must be used only in its original and unmodified form.
+Any editing, rewriting, restructuring or transformation is prohibited.
+
+**7. No Open Source Grant**
+This license does not constitute an open-source license and grants no
+rights to modify, fork, redistribute altered versions, or sublicense the Work.
+
+**8. Disclaimer**
+The Work is provided "as is" without warranties of any kind.
+The Author assumes no liability for third-party use.
+
+**9. Jurisdiction**
+Applicable law shall be determined by the Author’s jurisdiction unless
+otherwise required by mandatory law.
+
+**End of License**
