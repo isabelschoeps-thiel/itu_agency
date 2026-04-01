@@ -147,7 +147,7 @@ Aus Sicherheitsgründen ist es aktuell nur folgenden Universitäten und Forschun
 - **[Harvard University](https://www.harvard.edu/)** Vereinigte Staaten Amerika
 - **[University of Oxford](https://www.ox.ac.uk/)** Vereinigtes Königreich, UK
 - **[University of Cambridge](https://www.cam.ac.uk/)**, Vereinigtes Königreich, UK
-- **[CERN - International Telecommunication Union, ITU,](https://home.cern/)** Schweiz
+- **[CERN Quantum](https://home.cern/)** Schweiz
 - **[Japan Advanced Institute of Science and Technology (JAIST).](https://sciencebusiness.net)** Japan 
   
 Universitäten, Forschungsinstitute und vergleichbare Einrichtungen können unter strengen Voraussetzungen einbezogen oder sich für eine Aufnahme bewerben. Die Aufnahme erfolgt ausschließlich unter Absprache und mit Zustimmung der jeweiligen Regierungsvertretern in den betreffenden Ländern und Staaten. Jede Universität/Institution unterliegt denselben Lizenzregeln und Verhaltenskodex den Code of Conduct wie staatliche und kommerzielle Partner.  
