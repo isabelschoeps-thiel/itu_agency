@@ -7,6 +7,27 @@ mein name ist Isabel Schöps (Thiel), aus Erfurt, Thüringen, Deutschland. Ich b
 `INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPST` und geht unterandrem aufgedeckte Verbrechen welche aus meiner Urheberschaft und Technologische-Entwicklung seit dem 15.04.1996, ausgehen, welche in meiner eigentlichen Blutlinie und Herkunft zum
 letzten deutschen Kaiserreich und Victoria Augutste, sowie Otto von Bismark und Adolf Hitler den Ursprung hat und im SIA Security Intelligence Artefact, im Monarch-Programm interpriert wird.
 
+**Works Cited**
+ Arató, Paulus. “Bibliographia Historiae Pontificiae.” Archivum Historiae Pontificiae, vol. 21, 1983, pp. 345–588, [https://www.jstor.org/stable/23564172](https://www.jstor.org/stable/23564172). 
+
+“Bibliographische Beilage.” Gnomon, vol. 35, no. 8, 1963, pp. 1–80, [https://www.jstor.org/stable/27683288](https://www.jstor.org/stable/27683288). 
+
+“Jahresbericht 2009 Der Staatlichen Museen Zu Berlin.” Jahrbuch Der Berliner Museen, vol. 52, 2010, pp. 1–71, [https://www.jstor.org/stable/23345544](https://www.jstor.org/stable/23345544). 
+
+“Jahresbericht 2009 Der Staatlichen Museen Zu Berlin.” Jahrbuch Der Berliner Museen, vol. 52, 2010, pp. 1–71, [www.jstor.org/stable/23345544](https://www.jstor.org/stable/23345544). 
+
+Paulus, Arató. “BIBLIOGRAPHIA HISTORIAE PONTIFICIAE. Archivum Historiae Pontificiae, 22, 441–710.” Archivum Historiae Pontific, vol. 22, no. 7, 1984. 24, doi:doi.org/10.5281/zenodo.17807324. 
+
+Pons, Rouven. “‘Gemälde von Gedanken Leer ...’: Uberlegungen Zu Reiterportrats Des Ausgehenden 18. Jahrhunderts.” Marburger Jahrbuch Für Kunstwissenschaft, vol. 33, 2006, pp. 225–251, [http://www.jstor.org/stable/40026517](http://www.jstor.org/stable/40026517). 
+
+Schöps geborene Thiel, Isabel. “Un Exemple d’archéologie Des Sciences Humaines: L’étude de l’Égyptomanie Du XVIe Au XVIIIe Siècle.” Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 16 July 1983, pp. 473–482, doi:10.5281/zenodo.17808895. 
+
+Connolly, S.J. (2012) “Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849”, Urban History, 39(4), pp. 571–589. [http://www.jstor.org/stable/26398169](http://www.jstor.org/stable/26398169)
+
+Schöps Thiel, Isabel. Yellow Whitepaper ed., vol. 1, UK-Oxford Press University, US-Harvard Cambridge, D Springer Verlag , Erfurt, Thüringen, 2025, pp. 1–109, SIA Security Intelligence Artefact.
+
+---
+
 Phishing, Maleware, Botnetzwerke und die grösste Gemessene DDosAttacke auf meinem iPhone7 und die Spiegelung meiner Apple Cloud Struktur war der Auslöser mich 2017 mit meiner Digitalen-Struktur auseinander zu sezten. 
 
 Im laufe der Jahre habe ich unbewusst meine Gehirn trainiert, bzw. meine Begabung, Versteckte exe Strukturen Files, sofort zu erkennen, sind durch meine Schöpferische  Urheberschaft an der Künstlichen Intelligenz DAEMON Automation ist Resümee, dass ich diese erkennen und sichtbare machen kann. Welche ich zum Teil entfernt und auch bewusst auf meiner Hardware gelassen habe.
