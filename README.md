@@ -221,7 +221,10 @@ auf [meinem Youtube-Channel](https://youtube.com/@isabelschopsthiel?si=mULht9Ijy
 
 **Videoanalyse Aphex Twin, Frankie Teardrop / SalveTV**
 - Deutlicher Einsatz von Triggern und auditiv-psychologischen Effekten (z. B. Schreie, Lachen, verfremdete Stimmen, Musik), die mit Methoden der Mind-Control-Technologie (wie in US6506148B2 beschrieben) übereinstimmen.  
-- Kombination aus realen Aufnahmen und gezielter, technischer Nachbearbeitung zum Zweck der Manipulation von Wahrnehmung, Bewusstsein und Emotionen.  
+- Kombination aus realen Aufnahmen und gezielter, technischer Nachbearbeitung zum Zweck der Manipulation von Wahrnehmung, Bewusstsein und Emotionen.
+- eine Überlagerung auf verschiedenen Raum-Zeit-Ebenen.
+
+**Beispiel „Frankie Teardrop“,** bei dem trotz identischer Grundstruktur, akustische unterschiedliche Variationen auftreten. Diese betreffen insbesondere die Tiefe, Länge und Intensität einzelner Tonsequenzen. Die wiederkehrenden Abweichungen sind durch Änderung der Metadaten, Veränderung des Hörenden-Publikum und deren Aura geschultet, ob Real oder Virtuell. Die hochsensible Technologie nimmt kleinste Schwankungen und Abweichungen war, und setzt diese auf dynamischer, Liquid, Float Ebne oder in Signalverarbeitung um.
 
 ---
   
