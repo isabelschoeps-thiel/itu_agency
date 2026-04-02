@@ -3,7 +3,7 @@
     number =    2026,  
     howpublished =  RFC 2026,  
     publisher = RFC Editor,  
-    Datum =       09.10.2025  
+    Datum =      09.10.2025  
     url =       https://www.rfc-editor.org/info/rfc2026,  
     Autor =    Isabel Schoeps neé Thiel,   
     title =     The Internet Standards Process - Revision 3,  
