@@ -5,7 +5,7 @@
           http://schema.datacite.org/meta/kernel-4.5/metadata.xsd">
 
   <!-- IDENTIFIER -->
-  <identifier identifierType="DOI">10.5281/zenodo.17809724</identifier>
+  <identifier identifierType="DOI">10.5281/zenodo.18620368</identifier>
 
   <!-- CREATOR -->
   <creators>
@@ -66,7 +66,7 @@
   <dates>
     <date dateType="Issued">2026-01-09T20:33:00+01:00</date>
     <date dateType="Collected">2023-06-01</date>
-    <date dateType="Updated">2026-01-09</date>
+    <date dateType="Updated">2026-04-02</date>
   </dates>
 
   <!-- LANGUAGE -->
