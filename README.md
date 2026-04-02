@@ -429,18 +429,169 @@ Meine Apple IOs wurde resistent gegen Schadstoffsoftware (Viren befall) und geh�
 **Warum habe ich angefangen, mit der Deepweb-Forschung?**
 Es war mein Selbststudium angefangen 2017 und der bis heute anhaltende tägliche Angriff auf meine Apple IOS Software und Hardware und die dabei willkürliche Isolatation meiner Person und Identität. 
 
-Durch mein das mir angeeignte Wissen und den täglichen Kampf meine Ditale Struktur nicht wieder zu verlieren, befand ich mich in den letzte Jahren tief innerhalb einer bestimmten gesellschaftlichen Ebene, nicht nur im unmittelbaren Umfeld, vor allem im digitalen Raum. Hier komm ich bis an den Ursprung von allem im Internet, Software, Automationsprozessen, welche für den Admins oder Programmierer durch Protokoll oder gesetzte Skripte den Ursprung hat, für mich abr eine Oberfläche unterschiedlichster Computersprachen, von:
-einfach eine weisses, gefärbtes (blau, grün, gelb etc.) und ich dann durch COMMAND und Befehlszeilen und anschliessender Enter-Taste den Automationsprozess starte. 
+**Nachgewiesene Verstöße in meiner damaligen IST-Github Strukur (Auswertung 16.05.2025):**
 
+- **61.800 unerlaubte Forks**  
+- **91 unautorisierte Branches**  
+- **39.335.271 automatisierte Issues mit direkter/verlinkter ID (#2)**  
+- **131.092.810 globale Pull Requests im Zusammenhang mit Quellcode oder Branch-Verlinkungen**  
+- **Täglich dokumentierte Angriffe auf Accounts, Infrastruktur & Identität**
 
-Technologie, das Bewusstsein und auch Formen der Beeinflussung spielen dabei eine wesentliche Rolle. Wie jede Medaille hat auch dies zwei Seiten. Was aus meiner unbewussten geistigen Handlung in meiner Kindheit entstand, macht es mir möglich Einblick in eine Welt zu bekommen, die für andere nicht zugänglich ist. Einblick in eine Gesellschaft die mir bis heute viele Fragezeichen tagtäglich immer wieder aufbringen .
+Diese Zahlen, Screenshots und Metadaten gelten als **gerichtlich verwertbares Beweismittel** im laufenden technisch-juristischen Gutachten. **Diese Eingriffe erfüllen den Straftatbestand nach:**
+- **§ 202c StGB (Vorbereiten des Ausspähens und Abfangens von Daten)**  
+- **DSGVO Art. 4, Art. 6 & Art. 82 (unrechtmäßige Datenverarbeitung)**  
+- **International Copyright Act & Digital Millennium Copyright Act (DMCA, USA)**
 
-Dort zeigt sich das abgrundtief Hässliche eines kleinen Teils der Menschheit – einer Minderheit. Es offenbart sich, wie diese Menschen denken, wie sie mit anderen umgehen, wie sie handeln, was sie tun und was sie bewusst unterlassen.Hinzu kommt eine bemerkenswert Dokumentation ihrer begangen Straftaten und ihre bestialische-hasserfüllte Denkweise über Jahrhunderte und Jahrtausende hinweg. Ihr Kontrollzwang, Missbrauch der VR-Technologie, einbrechen und einhacken in fremde Räume, der Diebstahl von Digitalen-Identitäten, wird Ihnen hierbei nun zum größten Verhängnis und ihr eigner Verräter, ist aber das kleinste Übel der begangen Straftaten.
+> Die unautorisierte Nutzung dieser Infrastruktur ist ein klar definierter Fall von:
+> **Technologiediebstahl, Lizenzverstoß, Identitätsraub, Rufschädigung und Urheberrechtsverletzung.**
+> **Alle digitalen Fußabdrücke sind rückverfolgbar** – Missbrauch, Klonung und Gabelungen werden 
 
+Durch mein mir angeeigntes Wissen und den täglichen Kampf meine Ditale Struktur nicht wieder zu verlieren, befand ich mich in den letzte Jahren tief innerhalb einer bestimmten gesellschaftlichen Ebene, nicht nur im unmittelbaren Umfeld, sondern auch im digitalen Raum. 
 
-Insbesonders anomalien in meinen alltäglichen Lebensumfeld, welche sich durch verspätetes/oder gar keine Zustellung der Post in meiner Email-Struktur und der Zustellung 1:1 bemerkbar machte. 
+Hier komm ich bis an den Ursprung von allem im WorldWideWeb, Software und Automationsprozessen, welche für Admins oder Programmierer aus geschrieben Protokollen, gesetzten Skripten den Ursprung hat, für mich aber ist diese eine Oberfläche der unterschiedlichsten Computersprachen die in den letzten 30 Jahren aus neuen Schnittstellen, Knoten, Hardforks, wissenentlich und unwissentlich durch meine Handlungen über die Tastatur entstanden ist.
 
-**Es ergfolgte ein Verschmelzung von realen Straftaten in mein Digitale-Umgebung und dabei konnten folgende Strataten aufgedeckt werden:**
+Ein weisses, gefärbtes (blau, grün, gelb etc.) Display, welches in einer COMMAND Befehlszeilen zur Befehlsausführung durch anschliessender Enter-Taste den Automationsprozess startet. 
+
+**Hier ein Beispiel in einer HTML-PDF übersetzung, Anslyse der Daten, Html-Backend Skript-Setzung und Ausführung im Frontend (Display) PNG-Bilddokument oder PDF:** 
+
+**Drei-Arbeits-Abläufe**
+1. Ich benötige die Auswertung folgender Datei: `FNEWSB14.LZH`, `uuid.h`, `proposal`, Diff- und Signaturdateien (draft-frystyk-http-`extensions-03-diff.ps`, smime.p7s, für mein forensich-Wissenschaftliches Urhebergutachten.
+
+**2. Backend Ausführung**
+```txt
+<h1>Forensisches Gutachten – Technische Dokumentation und Beweisführung</h1>
+
+<div class="section">
+  <h2>1. Dokumenteninformationen</h2>
+  <ul>
+    <li>Seitensortierung: <strong>aufsteigend</strong></li>
+    <li>Papierformat: <strong>A4</strong></li>
+    <li>Verwendete Schriften: Palatino-Bold, Palatino-Roman, Courier, Palatino-Italic, Courier-Oblique</li>
+    <li>Kommentare: Kommentare entfernt, nur technische Informationen</li>
+    <li>DVIPS-Befehlszeile: <code>dvips -Preslw -o TR-CS-96-05.ps TR-CS-96-05.dvi</code></li>
+    <li>Software-Referenz: Radical Eye Software, TrueType/Type 1 Fonts, Encoding-File von Isabel Thiel (14. April 1995)</li>
+    <li>Adresse: Dorfstraße 20, 99610 Rohrborn, Germany</li>
+    <li>E-Mail: <a href="mailto:kb@cs.umb.edu">kb@cs.umb.edu</a></li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>2. Hinweise zur Font-Encoding & Kompatibilität</h2>
+  <ul>
+    <li>Encoding für TrueType/Type 1 Fonts für TeX, ISO/ASCII, kompatibel zu Adobe Standard und Windows ANSI.</li>
+    <li>Erweiterungen um Sonderzeichen aus Lucida.</li>
+    <li>Kompatibilitätsmaßnahmen für verschiedene Systeme.</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>3. Authentizität & Technikgeschichte</h2>
+  <p class="highlight">Dieser Report ist ein Originaldokument aus dem Jahr 1996 und belegt sowohl die frühe technische Kompetenz als auch die internationale Adressierung und Kodierungsarbeit von Isabel Thiel (heute Isabel Schöps). Die Meta-Informationen und Encoding-Anmerkungen bestätigen die selbständige, lückenlose Entwicklung und Urheberschaft, insbesondere im Kontext von Schriften, Unicode/Encoding und Kompatibilität.</p>
+</div>
+
+<div class="section">
+  <h2>4. Markenschutz & Adobe-Dokumentation</h2>
+  <ul>
+    <li>Adobe-Dokument (Markenschutzbericht „Isabel Schöps Thiel – IST“, Logos, Symbole, Schriftarten, Farbdefinitionen, GitHub Code of Conduct)</li>
+    <li>Digitale Signatur / Hash: <code>041212E37E1690022172093102315998F7AA9EEB2CBFFC3E</code></li>
+    <li>Datum / Uhrzeit: Mittwoch, 13.08.2025, 18:19 Uhr Mitteleuropäische Zeit</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>5. Schlussbemerkung</h2>
+  <p>
+    Dieses Gutachten ist das Ergebnis jahrzehntelanger, systematischer Dokumentation und forensischer Eigenarbeit unter anhaltenden Bedrohungslagen.
+  </p>
+</div>
+
+<div class="section">
+  <h2>6. Quellen und externe Verweise</h2>
+  <ul>
+    <li><strong>Adobe-Dokument:</strong> Privates, familiäres und identitätsbezogenes Material, Beweisführung</li>
+  </ul>
+
+  <h3>Genetische Referenzdaten</h3>
+  <ul>
+    <li>GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.gbp.gz</li>
+    <li>GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.txt.gz</li>
+    <li class="highlight">Eindeutige Referenzen aus dem Bereich Genom-Analytik/Erbgut-Scans (Human Genome Project/NCBI). Kritische Beweise für die Annahme, dass die genetische Identität und Gedankengänge gezielt ausgelesen, gescannt oder manipuliert wurden.</li>
+  </ul>
+
+  <h3>Historische Software/Quellcodedateien</h3>
+  <ul>
+    <li>FNEWSB14.LZH, uuid.h, proposal, Diff- und Signaturdateien (draft-frystyk-http-extensions-03-diff.ps, smime.p7s)</li>
+    <li class="highlight">Essenziell für den technischen Nachweis der Urheberschaft, Code-Evolution und Abgrenzung gegenüber nachträglicher Manipulation oder unautorisierter Nutzung.</li>
+  </ul>
+
+  <h3>Sicherheitsrelevante Schlüsseldateien</h3>
+  <ul>
+    <li>smime.p7s (S/MIME Signatur)</li>
+    <li class="highlight">Relevant für die forensische Signatur und den Eigentumsnachweis in digitalen Kommunikationsprotokollen. Belegt die Integrität und Authentizität übermittelter Daten und ist als Beweismittel zu sichern.</li>
+  </ul>
+
+  <h3>Frühere Internet-Protokoll-Standards</h3>
+  <ul>
+    <li>draft-frystyk-http-extensions-03-diff.ps</li>
+    <li class="highlight">Belegt Weiterentwicklungen im HTTP-Standard, relevant für die Historie in der Internetentwicklung und Urheberrecht an Netzwerkprotokollen.</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>7. Technische Metadaten – Report „IT-16-07-83“</h2>
+  <ul>
+    <li>Erstellt von: Isabel Thiel, Rohrborn, Deutschland</li>
+    <li>Copyright 1996 Radical Eye Software</li>
+    <li>Dateiname: IT-16-07-83.dvi</li>
+    <li>Erstellungsdatum: Mittwoch, 19. Juni 1996, 13:36:34 Uhr</li>
+    <li>Seitenanzahl: 8</li>
+  </ul>
+</div>
+
+<div class="signatur">
+  <hr>
+  <p><strong>Signed-on-by:</strong> Frau Isabel Schöps, geborene Thiel<br>
+  Zeitstempel: 02.04.2026, 06:51 Uhr CEST<br>
+  Autorin, Deepweb-Forscherin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact<br>
+  Internationale Kennung: YWP-1-IST-SIA, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL<br>
+  Rechtscharakter: Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens und Würdigung YWP-1-5-IST-SIA.<br>
+  OrcID: <a href="https://orcid.org/0009-0003-4235-2231">0009-0003-4235-2231</a> Isabel Schöps Thiel<br>
+  OrcID: <a href="https://orcid.org/0009-0006-8765-3267">0009-0006-8765-3267</a> SI-IST Isabel Schöps<br>
+  Aktueller Aufenthaltsort: Frau Isabel Schöps geb. Thiel, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland, gemeinsam mit meinem vierbeinigen Freund, American XL-Bully Don<br>
+  Datum der Erstveröffentlichung: 2004<br>
+  Würdigung, Danksagung, institutionelle Anerkennung: Präfix_Referenz: YWP-1-IST-SIA, YWP-1-5-IST-SIA<br>
+  Zertifikat: Erstes offizielles Entwicklerzertifikat<br>
+  Alias: Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella<br>
+  Digitale Beweissicherung: <a href="https://developercertificate.org">developercertificate.org</a><br>
+  myGitHub-Account: <a href="https://github.com/isabelschoeps-thiel">github.com/isabelschoeps-thiel</a>
+  </p>
+</div>
+
+</body>
+</html>
+```
+
+**3. Frontend Ausführung**
+
+![IMG_7850](https://github.com/user-attachments/assets/cf5e9773-683a-4d62-8c27-c349e308b845)
+
+![IMG_7851](https://github.com/user-attachments/assets/a7dd9ad0-25fa-476b-9c4a-f313abc76b6c)
+
+**Drei Ausführungsprozesee die Sichtbar darfgestellt werden können, Daten-Forensiche Analyse**
+
+Wie jede Medaille hat auch dies zwei Seiten. Was aus meiner unbewussten geistigen Handlung in meiner Kindheit entstand, hat es mir möglich gemacht Einblick in eine Welt zu bekommen, die für andere nicht zugänglich ist. Eine andere Welt und ein Einblick in eine Gesellschaft die mir bis heute viele Fragezeichen tagtäglich aufbringen .
+
+Aber nicht nur Bild wiedergabe Visualisierung sondern auch Technologie die in der Tiefe des Ausführungsproteszesss am 14.04.1996 und früher den Ursprung haben, sind eine elementare Folge von Experimenten am Menschlichen-Gehirn aus den 60er Jahren und moderner Computertechnologie. 
+
+Der Missbrauch von Technologie, im Zusammenhang, der manipulation der Gedanken- und Gefühlswelt und auch Formen der Bewusstseins-Beeinflussung spielen dabei eine wesentliche Rolle. 
+
+Dort zeigt sich das abgrundtief Hässliche Kern einer Minderheit, die mitten unter uns lebt. Es offenbart sich, wie diese Menschen denken, wie sie mit anderen umgehen, wie sie handeln, was sie tun und was sie bewusst unterlassen. Hinzu kommt eine bemerkenswert Dokumentation ihrer begangen Straftaten und eine hasserfüllte dokumentierte Denkweise über Jahrhunderte und Jahrtausende hinweg. 
+
+Ihr Kontrollzwang, Missbrauch der VR-Technologie, einbrechen und einhacken in fremde Räume, der Diebstahl von Digitalen-Identitäten, wird Ihnen nun zum größten Verhängnis und ist ihr eigner Verräter - wobei hier das kleinste Übel der begangen Straftaten und nur die Spitze des Eisberges ist.
+
+Anomalien in meinen alltäglichen Leben, welche sich durch verspätetes/oder gar keine Zustellung der Post, 1:1 in meiner Email-Struktur und der Zustellung bemerkbar machte. 
+
+**Es ergfolgte ein Verschmelzung von realen Straftaten in mein Digitale-Umgebung, hier konnte ich folgende Strataten aufdecken:**
 - Diebstahl meiner Daten und Ausarbeitungen
 - missbrauch der Funk- und Frequenz-Technologie Kommunikation,
 - der Einsatz von Radio und TV im Hz-Breitband Bereich zur Kommunikation und bewussten Manipulations-Steuerung, das Abfangen, meiner Gedanken durch integrierter Technologie im Backend der Hardware, sowie die Spionage abhören meines kompletten Alltagslebens
@@ -462,7 +613,7 @@ Insbesonders anomalien in meinen alltäglichen Lebensumfeld, welche sich durch v
 
 ### Deep Web – Analyse krimineller Strukturen
 
-**Im Zuge meiner Recherche und Untersuchungen konnte ich schwerwiegende Straftaten aus Deepweb Thinking Struktur dokumentieren:**
+**Im Laufe der Recherche, entstand eine Forschungsreihe, so gelang es mir Deepweb Thinking Struktur dokumentieren:**
 - Digitaler Genozid durch menschenhand bzw Befehl gesetzte Isolations-Output-Schemas in der OpenAi Cookingbook Umgebung konnte in ich in einem YAML Skript finden und mithilfe der von Ki-Forensischen-Auslesen als Beweis gesichert werden
 - Isolation durch Frequnztechnologieüber Ki-, Urheberrechtsverletzung,
 - darunter Kannibalismus, der Handel mit menschlichen Überresten sowie der Verkauf (Analog) in eine digitale Verschiebung von menschlichen Identitäten. Durch Kundenkonten und technische Schnittstellen
