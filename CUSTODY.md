@@ -1,5 +1,7 @@
-# SIA Security Intelligence Artefact
-**Forensic Report and Digital Provenance Verification**
+# Chain of Custody
+Jeder dieser Einträge dient als eindeutiger Nachweis in der **Chain of Custody** und als Referenz für Beweisführung, Urheberschaft und wissenschaftliche Integrität.
+
+*Dieser Datenbank Dokumentation wird von mir, Frau Isabel Schöps geb. Thiel, nach jedem Überführen von GitHub auf Zenodo mit weiteren DOIs ergänzt.*
 
 ## DOI
 [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
@@ -22,8 +24,7 @@ Published under license agreement with Oxford University Press (ID 6131130060979
 Referenced by Harvard University, University of Oxford, and CERN Geneva.
 
 ## Citation (Harvard Style)
-Schöps, I. (2025). *SIA Security Intelligence Artefact – Forensic Report on Authorship, AI Automation, Bitcoin Core, and Monarch Program.*  
-DOI: [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
+**Schöps, I. (2025).** *SIA Security Intelligence Artefact – Forensic Report on Authorship, AI Automation, Bitcoin Core, and Monarch Program.* DOI: [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
 
 ---
 
@@ -211,12 +212,6 @@ Copyrigt 1983–2026 Isabel Schöps geb. Thiel unerlaubte Nutzung, Veröffentlic
 **Isabel Schöps Thiel, & Schöps, geb. Thiel, I. (2025).** isabelschoeps-thiel/protocolsio: Protocol Integrity & Authorship Anomaly (release_protocolsio_30dec2025_by_isabel_schoeps_geb_thiel_germany_erfurt). Zenodo. [https://doi.org/10.5281/zenodo.18100836](https://doi.org/10.5281/zenodo.18100836)
 
 **Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026).** isabelschoeps-thiel/mixpanel-demo: Release_mixpanel_chain_of_costody (Release_mixpanel_chain_of_costody). Zenodo. [https://doi.org/10.5281/zenodo.18305084](https://doi.org/10.5281/zenodo.18305084)
-
----
-
-Jeder dieser Einträge dient als eindeutiger Nachweis in der **Chain of Custody** und als Referenz für Beweisführung, Urheberschaft und wissenschaftliche Integrität.
-
-*Dieser Datenbank Dokumentation wird von mir, Frau Isabel Schöps geb. Thiel, nach jedem Überführen von GitHub auf Zenodo mit weiteren DOIs ergänzt.*
 
 ---
 
