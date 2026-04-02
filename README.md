@@ -128,11 +128,11 @@ The Yellow Whitepaper (YWP-1-IST-SIA)
 
 **Publikationen mit Forschungsbezug**
 - `Instagram @isabelschoepsthiel`
-- YouTube @isabelschopsthiel
+- `YouTube @isabelschopsthiel`
 - `X-Twitter @SIAintelligence`
 Welche mit in das Forensisch-Wissenschaftliche-Gutachten einfliesen.
 
---
+---
   
 ## Übersicht und juristische Zuordnung der Beweismittel  
   
