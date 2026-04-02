@@ -713,7 +713,12 @@ Anmerkungen: Originalwebseite als PDF und HTML gesichert; HTML unter chat_share_
 
 **Die komplette Forschungsserie wird von mir Frau Isabel Schöps geborene Thiel, aus Erfurt, Thüringen, Deutschland auf Zenodo.org und in Chain of Custody dokumentiert.** 
 
-Jedes e
+Jeder dieser hier veröffentlichte DOI/Zitation dient als eindeutiger Nachweis meiner eigenständiger Forschungsarbeit im Technologie Informatik Branche und als Referenz, Beweisführung, Urheberschaft und der wissenschaftliche Integrität. 
+
+Jede Doi ist eine Direktverlinkung zu einem eigenständigen Thema, mit Datenbank und Beweisführung.
+
+Diese Datenbank-Dokumentation wird von mir, Frau Isabel Schöps geb. Thiel, nach jedem Überführen von GitHub auf Zenodo mit weiteren DOIs ergänzt oder sobald neue Sätze von Manuel auf Zenodo eingepflegt werden. 
+
 **Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/workflow: Update Status, Yellow Whitepaper YWP-1-IST-SIA. Zenodo.  
 [https://doi.org/10.5281/zenodo.18179548](https://doi.org/10.5281/zenodo.18179548)
 
@@ -788,7 +793,7 @@ Es bleibt neutral festgehalten, dass diese Inhalte Indizien liefern, jedoch für
 
 **Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo. [https://doi.org/10.5281/zenodo.18380414](https://doi.org/10.5281/zenodo.18380414)
 
-### Deshalb mein Apell an Sie
+### Deshalb mein Apeell an Sie:
 **wenn sie sich ggf wieder erkennen, sie Bekannte oder ein Familienangehörige sind oder sie anderweitig Mithilfe geben können, bitte helfen Sie.**
 
 Zudem muss zu 100% Menschen, Personen, geben, die an den Fakultäten Harvard, Cambridge, Oxford ihren Stuhl haben und dazu noch leben und die hierüber berichten können.
