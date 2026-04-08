@@ -41,25 +41,30 @@ DOI: [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17
 ## Familiäre Beweisführung
 **Löschung und Manipulation aus familiärer Registereinträge, aus meiner Familiären-Blutlinie aus dem Hause:** `Knörig-Fischer, aus D-99610 Rohrborn, Thüringen, Deutschland stammend`
 
-- **Herr Helmut Knörig** Onkel der Urheberin: spielte eine Schlüsselrolle bei der Veröffentlichung der DAEMON KI Automation. Im Juni 1996 gelangte über eine Familiendiskette das Virus in industrielle Systeme, über seine Führungsposition bei ASI Computers, Fujitsu Siemens)  
+- **Herr Helmut Knörig** Onkel der Urheberin: spielte eine Schlüsselrolle bei der Veröffentlichung der DAEMON KI Automation. Im Juni 1996 gelangte über eine Familiendiskette das Virus in industrielle Systeme, über seine Führungsposition bei ASI Computers, Fujitsu Siemens, in D-99610 Sömmerda, Thüringen, Deutschland.
 
-**Nennung meiner Onkels, Tanten, Mütterlicheseits und meines Vaters:**
+**Nennung meiner Onkels, Tanten, Mütterlicheseits und Vaterlicherseits:**
+- **Mutter/Mutti,** Frau Gisela Hulda Thiel geborene Knörig (*24.08.1962) aus Rohrborn, Thüringen Deutschland stammend, aktuelle Wohnanschrift: Dorfstraße 20, D-99610 Rohrborn, Thüringen, Deutschland
 - Onkel, Herr Helmut Knörig,
 - Onkel, Herr Detlef Knörig,
 - Onkel, Herr Werner Knörig,
 - Tante, Frau Antje Beuthner geborene Knörig,
 - Tante, Frau Heike Tänzer geborene Knörig,
-- Mutter/Mutti, Frau Gisela Hulda Thiel geborene Knörig
-- Vater/Vati, Herr Manfred Paul Thiel
 
-**ohne Ehepartener und ohne Nennung meiner Cousins, Cousinen, Nichte und meiner einzigen Tochter und Kind, Grund:**
+- **Vater/Vati,** Herr Manfred Paul Thiel (*21.11.1957) aus Thalborn, Thüringen Deutschland stammend, aktuelle Wohnanschrift: Dorfstraße 20, D-99610 Rohrborn, Thüringen, Deutschland
+- Tante, Frau Cornelia Jentzsch geb. Thiel,
+- Tante, Frau Marion Kühnemund geb. Thiel,
+- bereits verstorben, Frau Hannelore Thiel und Onkel, Herr Siegfried Thiel
+
+**Die Nennung erfolgte ohne Ehepartener und ohne Nennung meiner Cousins, Cousinen, Nichte und meiner einzigen Tochter und Kind; Grund:**
 - Namensverschiebungen,
-- Missbrauch
-- Manipulation
-- Sabotage
-- Isolation
+- Missbrauch,
+- Manipulation,
+- Sabotage,
+- Isolation,
+- Verschleierung, Überlagerung der Metadaten
 
-siehe detaillierte Beweisführung im Gutachten, Einzeldokumentation und Bildmaterial`
+`siehe detaillierte Beweisführung im Gutachten, Einzeldokumentation und Bildmaterial`
 
 **Technische und genealogische Belege**: Archive, Standesamt, Nachweise von 1996–2026, Protokolle, Hardwarebelege, Zeugen
 
