@@ -1,7 +1,6 @@
 # Deepweb-Forschung 
 ## Doktorarbeit in Informatik  
-## Bewerbung um forschungsorientierten zum Erlangen eins Doktorgrad (Ph.D.)  
-### Anerkennung einer abgeschlossenen Forschungsarbeit  
+## abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D.)
 
 ---
 
