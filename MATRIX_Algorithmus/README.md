@@ -6,7 +6,7 @@
 
 ## Autorin  
 **Isabel Schöps (geb. Thiel)**  
-Unabhängige Forscherin, Erfurt, Deutschland  
+Unabhängige Forscherin, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland  
 
 ---
 
