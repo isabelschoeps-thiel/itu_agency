@@ -71,93 +71,93 @@ Internationale_Menschenrechte_Verfahren",
 - https://bafybeih65no5dklpqfe346wyeiak6wzemv5d7z2ya7nssdgwdz4xrmdu6i.ipfs.dweb.link/
 - http://fckilfkscwusoopguhi7i6yg3l6tknaz7lrumvlhg5mvtxzxbbxlimid.onion/
 
-**weitere Domains (ohne Url):**
-0mx1lntastantretatlanpassword.com
-0mxus3rauthkeepsame.com
-10311landex.com
-206pms.com
-286755.codesandbox.io
-2nbskull.com
-333-77-6578-929-000.info
-34533teams.xyz
-34ovuk.codesandbox.io
-365jhsgbxsncnsuye67.live
-365maineventco.com
-365voicemessage.com
-3dfzlrtsiwfibvfyql96zt.live
-3fytwq.codesandbox.io
-455b3105mssvr.ml
-5d4ba5ca-d814-4049-8ea3-af505f6e1e01.info
-5thcolumn.accountant
-62zy6b.codesandbox.io
-660o5v.codesandbox.io
-77du0t.codesandbox.io
-7dmjmg20p8mty1nzexnjgzoc40ljeumty1nzexnzqxny4yng.co
-7dmjmg20p8mty1ody5mjm4ms4xms4x.live
-7o7ttl.codesandbox.io
-8nk0ds.codesandbox.io
-9xybgc.codesandbox.io
-aaaaclub.net
-aaaaoffice635u.com
-abg-serviices.com
-accionabdjv.ca
-accvcam.com
-acehomproducts.com
-acqureioil.com
-acuciondi.com
-adlokali.com
-adobe-06195.com
-adobe-20648.com
-adobe-54836.com
-adobe-69451.com
-adobe-91506.com
-agoaci.click
-agre-ae.com
-agronne.com
-aibels.com
-aibie.me
-aimedical.click
-ainorsigns.co
-ainswat.com
-aismare.us
-alamarcosmetics.xyz
-alamoudiexchang-online.com
-alamoudiexchange-online.com
-alexmakanaki.com
-almflrm.com
-alnapeckagingco.com
-altoma-report.com
-am-jlll.com
-amat-us.com
-ambleasia.co
-aminocx.xyz
-appsinfo.xyz
-aqkagjmyzg0otu5ltaznmitndjjms04zwrhlwnknd.us
-aqriko.com
-aquitainewine.click
-araedt.com
-aritcac.com
-ascisoft.com
-asdfghgfdsa.com
-asianwaterjet.com
-asn4.xyz
-assetprovidingsupport.xyz
-assoulne.com
-atg1.xyz
-atg2.xyz
-audlgreenville.com
-aufdreworld.com
-auhrticezemkrt.com
-auth17.com
-autsolut.net
-avantscapital.com
-avis-corporation.com
-azurenetworksauthx.us
-baincoorp.com
-bald-savory-whippoorwill.glitch.me
-bannesco.com
-basinposal.com
-bat-machinebouw.click
+**Domains, Webseit ohne Url, jede Zeile eine Website:**
+- 0mx1lntastantretatlanpassword.com
+- 0mxus3rauthkeepsame.com
+- 10311landex.com
+- 206pms.com
+- 286755.codesandbox.io
+- 2nbskull.com
+- 333-77-6578-929-000.info
+- 34533teams.xyz
+- 34ovuk.codesandbox.io
+- 365jhsgbxsncnsuye67.live
+- 365maineventco.com
+- 365voicemessage.com
+- 3dfzlrtsiwfibvfyql96zt.live
+- 3fytwq.codesandbox.io
+- 455b3105mssvr.ml
+- 5d4ba5ca-d814-4049-8ea3-af505f6e1e01.info
+- 5thcolumn.accountant
+- 62zy6b.codesandbox.io
+- 660o5v.codesandbox.io
+- 77du0t.codesandbox.io
+- 7dmjmg20p8mty1nzexnjgzoc40ljeumty1nzexnzqxny4yng.com
+- 7dmjmg20p8mty1ody5mjm4ms4xms4x.live
+- 7o7ttl.codesandbox.io
+- 8nk0ds.codesandbox.io
+- 9xybgc.codesandbox.io
+- aaaaclub.net
+- aaaaoffice635u.com
+- abg-serviices.com
+- accionabdjv.ca
+- accvcam.com
+- acehomproducts.com
+- acqureioil.com
+- acuciondi.com
+- adlokali.com
+- adobe-06195.com
+- adobe-20648.com
+- adobe-54836.com
+- adobe-69451.com
+- adobe-91506.com
+- agoaci.click
+- agre-ae.com
+- agronne.com
+- aibels.com
+- aibie.me
+- aimedical.click
+- ainorsigns.co
+- ainswat.com
+- aismare.us
+- alamarcosmetics.xyz
+- alamoudiexchang-online.com
+- alamoudiexchange-online.com
+- alexmakanaki.com
+- almflrm.com
+- alnapeckagingco.com
+- altoma-report.com
+- am-jlll.com
+- amat-us.com
+- ambleasia.co
+- aminocx.xyz
+- appsinfo.xyz
+- aqkagjmyzg0otu5ltaznmitndjjms04zwrhlwnknd.us
+- aqriko.com
+- aquitainewine.click
+- araedt.com
+- aritcac.com
+- ascisoft.com
+- asdfghgfdsa.com
+- asianwaterjet.com
+- asn4.xyz
+- assetprovidingsupport.xyz
+- assoulne.com
+- atg1.xyz
+- atg2.xyz
+- audlgreenville.com
+- aufdreworld.com
+- auhrticezemkrt.com
+- auth17.com
+- autsolut.net
+- avantscapital.com
+- avis-corporation.com
+- azurenetworksauthx.us
+- baincoorp.com
+- bald-savory-whippoorwill.glitch.me
+- bannesco.com
+- basinposal.com
+- bat-machinebouw.click
 bbld.xyz
 bckoffice.com
 bdudhurujrhrsvdgdg.com
