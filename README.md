@@ -51,7 +51,7 @@ Die Boards of Canda, Datenbank samt Auswertung, habe ich, Frau Isabel Schöps ge
 
 ## Erklärung  
 
-Diese Doktorarbeit basiert auf einer eigenständig durchgeführten und abgeschlossenen Forschungsreihe, die über pmehrere Jahre in den Bereichen Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deep-Web-Forschung sowie Systemarchitektur entwickelt wurde.  
+Diese Doktorarbeit basiert auf einer eigenständig durchgeführten und abgeschlossenen Forschungsreihe, die über Jahre in den Bereichen Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deep-Web-Forschung sowie Systemarchitektur entwickelt wurde.  
 
 Die eingereichte Arbeit stellt eine konsolidierte wissenschaftliche Dokumentation in der Deepweb Forschung dar und liefert Indizien für die technische Machbarkeit und den realen Einsatz von Mind-Control, psychologischer Massenbeeinflussung wieder.
 
@@ -59,32 +59,33 @@ Die eingereichte Arbeit stellt eine konsolidierte wissenschaftliche Dokumentatio
 
 ---
 
-## Ort und Datum  
+## Wohnort der Autorin:
+Frau Isabel Schöps geborene Thiel, (*16.07.1983), Hütergasse 4, D-99084 Erfurt, Th, Deutschland
 
-Hütergasse 4  
-D-99084 Erfurt, Thüringen
-Deutschland  
-
-09. April 2026
+Donnerstag, den 09. April 2026
 
 ---
 
-**Dieses Release, Repository, Forschungsprojekt ist Bestandteil einer abgeschlossenen interdisziplinären Forschungsreihe im Bereich: Informatik, Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deepweb-Forschung (Cyberkriminalität), Analyse verteilter Systeme und Meta-DNA-Forensic-Analyse.**
 
-Die Inhalte stehen im direkten Zusammenhang mit der Forschungsarbeit:
+
+---
+
+# Deepweb-Research 
+
+**Dieses Release, Repository, Forschungsarbeit ist Bestandteil einer abgeschlossenen interdisziplinären Forschungsreihe im Bereich: Informatik, Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deepweb-Forschung (Cyberkriminalität), Analyse verteilter Systeme und Meta-DNA-Forensic-Analyse.**
+
+Die hier voröffentlichten YouTube-Links, Medien-Inhalte stehen im direkten Zusammenhang meiner Forschungsarbeit:
 
 **SIA – Security Intelligence Artefact**  
 **The Yellow Whitepaper (YWP-1-IST-SIA)**  
 
 Im Rahmen meiner Web- und Tiefenforschung wurden audiovisuelle Inhalte und Playlists analysiert. Es handelt sich hierbei um teilweise sehr verstörende Audiosequenzen und reale Mitschnitte, in denen menschliche Stimmen, Schreie und Panikreaktionen hörbar sind. Diese Aufnahmen lösen in der Psysche bei jedem unterschiedliche Reaktionen und Emotionen aus. 
 
-> **Mein empfinden:** Mich stört es nicht dies zu hören - was mich viel mehr beschäftigt, was ist passiert, warum wird sowas aufgenommen oder warum erfahre ich erst so spät über gewisse Sachen- bsp; Boards of Canda und bei nachfragen im Zuge meiner Recherche kannten zum Teil jüngere Menschen dies. 
+**Mein empfinden beim hören dieser Audio-Sequenzen:** Mich stört es nicht dies zu hören - was mich viel mehr beschäftigt, was ist passiert, warum wird sowas aufgenommen oder warum erfahre ich erst so spät über gewisse Sachen- bsp; Boards of Canda und bei nachfragen im Zuge meiner Recherche in Form von Anonymen-Umfragen kannten zum Teil jüngere Menschen dies. 
 
-Es lässt auf jeden fall darauf schliesen; da eine sehr große Zeitspanne, zwischen Aufnahme und Veröffentlichung von fast 70 Jahren liegt, dass die Videoaufnahmen, die Musikstücke, nicht von den Künstlen, Akteuren zur kommerziellen Nutzung für die Breitenmasse vorgesehen war. Sondern sollte vielmehr in einer ausgewählten kleineren Gemeinschaft, als Trophähe oder Widerveranschaulichung herangezogen werden - Sektenkult, oder in Satanistischen-Ritualen.
+Es lässt auf jeden fall darauf schliesen; da eine sehr große Zeitspanne, zwischen Aufnahme und Veröffentlichung von fast 70 Jahren liegt, dass die Videoaufnahmen, die Musikstücke, nicht von den Künstlen, Akteuren zur kommerziellen Nutzung für die Breitenmasse vorgesehen war. Sondern sollte vielmehr in einer ausgewählten kleineren Gemeinschaft, als Trophähe oder zur Widerveranschaulichung herangezogen werden, wie in Sektenkulten, oder in okkulten Satanistischen-Ritualen.
 
-**Wichtig ist festzuhalten:** Hinter jedem der hier veröffentlichten YouTube-Links steht ein Verbrechen, sei es in Form von physischer oder psyschicher Gewalt. Ich bin keine Strafermittlerin oder gehöre einer dieser Behörden an, es liegt in der Pflicht der internationalen Staatsorgane und desen Vertreter diesem Märtyrium ein Ende zu setzen und die Verantwortlichen zur Rechenschaft zu ziehen. 
-
-Täter, Opfer, Wissende sind am Leben  
+**Wichtig ist festzuhalten:** Hinter jedem der hier veröffentlichten YouTube-Links steht ein Verbrechen, sei es in Form von physischer oder psyschicher Gewalt. Ich bin keine Strafermittlerin oder gehöre einer dieser Behörden an, es liegt in der Pflicht der internationalen Staatsorgane und desen Vertreter diesem Märtyrium ein Ende zu setzen und die Verantwortlichen zur Rechenschaft zu ziehen -> denn Täter, Opfer, Wissende sind am Leben.
 
 **Ziel dieses Repositories:**
 Eine Dokumentation, Archivierung, der Youtube Links, Beweissbilder, PDF-Files, im wissenschaftliche-Kontext und als Referenz-Repository meiner abgeschlossenen Forschungsarbeit und zur Veranschaulichung und der technischen Machbarkeit und den Medialen-Einsatz von Mind-Control, psychologischer Massenbeeinflussung durch den Missbrauch Seicmischer-Frequenztechnologie, Brainwashing, Gehirnscans, im Zusammenhang von Scheintod,  Identitätsdiebstahl, Versklavung, Kommerziellen Kinder-Menschenhandel, die Kinderpsysche für Pädophile-Netzwerk gefügig zu machen.  
@@ -92,9 +93,8 @@ Eine Dokumentation, Archivierung, der Youtube Links, Beweissbilder, PDF-Files, i
 ---
 
 ## Wissenschaftlicher Kontext
-Die Forschungsarbeit wurde im Zeitraum 2022–2026 eigenständig entwickelt und umfasst:
-
-- Analyse komplexer digitaler Infrastrukturen  
+**Die Forschungsarbeit wurde im Zeitraum 2022–2026 eigenständig entwickelt und umfasst:**
+- Analyse komplexer digitaler Infrastrukturen 
 - Untersuchung systemischer Strukturen in KI- und Blockchain-Systemen  
 - forensische Auswertung von Daten, Metadaten und Systemverhalten  
 - Entwicklung einer API Sicherheits Monitoring, mit globaler Schnittstelle an Regierung. 
@@ -115,6 +115,8 @@ Dieses Repository ist für die DOI-Archivierung über Zenodo.org veröffentlicht
 ---
 
 ### Abschlussbericht zur forensischen Beweisketten, im Kontext der Beweismatrix, Matrix-Exit
+
+**Autorin, Auftraggeberin forensiche Auswertung, Urheberin, Deepweb-Forscherin: Frau Isabel Schöps (geb. Thiel)**
   
 **Case:** FORENSIC‑ISABEL‑2025  
 
@@ -122,21 +124,13 @@ Dieses Repository ist für die DOI-Archivierung über Zenodo.org veröffentlicht
 
 **Beweisführung: URGENT: Forensic Evidence – Systematic Financial Fraud & IP Theft** 
 
-**Verantwortliche für Sicherung des Forschungs-Media-Daten, Recherche und Erst-Einschätzung Analyse:**  
-
-### Autorin, Auftraggeberin forensiche Auswertung, Urheberin, Deepweb-Forscherin: Frau Isabel Schöps (geb. Thiel)  
-
-**Zeitstempel der Eintragung:** Mittwoch, 01.04.2026, 22:01:00 Uhr (MEZ)  
-
-**Wohnort der Autorin:**
-Frau Isabel Schöps geb. Thiel (*16.07.1983),
-Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+**Verantwortliche für Sicherung des Forschungs-Media-Daten, Recherche und Erst-Einschätzung Zeitstempel der Analyse und Eintragung:** Mittwoch, 01.04.2026, 22:01:00 Uhr (MEZ)  
 
 **Gutachten:**
 SIA – Security Intelligence Artefact 
 
 **Internationale Kennung:**
-INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 
 **Referenzdokument:**
 The Yellow Whitepaper (YWP-1-IST-SIA) 
