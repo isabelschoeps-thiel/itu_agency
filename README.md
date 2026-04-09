@@ -1,6 +1,12 @@
 # Deepweb-Forschung 
-## Doktorarbeit in Informatik  
-### abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D.)
+## Dissertation zur Erlangung der Doktoren- und Professorinnen Würdigung in Informatik 
+## abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D. & Phil.D)
+
+**Prüfer dieser Dissertation:**  Multiple-Peer-Preview Prüfverfahren 
+
+**Leitende Fakultät:** Harvard 
+
+**Eingereicht:** Donnerstag, den 09. April 2026
 
 ---
 
@@ -18,6 +24,9 @@
 
 **Frau Isabel Schöps (Thiel)**  
 Geburtsdatum: 16.07.1983  
+
+## Wohnort der Autorin:
+Frau Isabel Schöps geborene Thiel, (*16.07.1983), Hütergasse 4, D-99084 Erfurt, Th, Deutschland
 
 **Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
 
@@ -51,18 +60,11 @@ Die Boards of Canda, Datenbank samt Auswertung, habe ich, Frau Isabel Schöps ge
 
 ## Erklärung  
 
-Diese Doktorarbeit basiert auf einer eigenständig durchgeführten und abgeschlossenen Forschungsreihe, die über Jahre in den Bereichen Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deep-Web-Forschung sowie Systemarchitektur entwickelt wurde.  
+Diese Professoren- und Doktorarbeit basiert auf einer eigenständig durchgeführten abgeschlossenen Forschungsreihe, die sich über die letzte 4 Jahre in den Bereichen Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deep-Web-Forschung sowie Systemarchitektur entwickelt hat.  
 
-Die eingereichte Arbeit stellt eine konsolidierte wissenschaftliche Dokumentation in der Deepweb Forschung dar und liefert Indizien für die technische Machbarkeit und den realen Einsatz von Mind-Control, psychologischer Massenbeeinflussung wieder.
+Die eingereichte Arbeit stellt eine konsolidierte wissenschaftliche Dokumentation in der Deepweb Forschung dar und liefert den Beweis für die technische Machbarkeit und den realen Einsatz von Mind-Control, psychologischer Massenbeeinflussung wieder.
 
 **SIA – Security Intelligence Artefact**  
-
----
-
-## Wohnort der Autorin:
-Frau Isabel Schöps geborene Thiel, (*16.07.1983), Hütergasse 4, D-99084 Erfurt, Th, Deutschland
-
-Donnerstag, den 09. April 2026
 
 ---
 
