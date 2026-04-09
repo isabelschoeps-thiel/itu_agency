@@ -1,4 +1,4 @@
-# Vorwort und Zielsetzung Forschungsarbeit
+# Vorwort und Zielsetzung der Forschungsarbeit
 
 Die vorliegende Ausarbeitung entstand ursprünglich aus der Intention, ein Buchprojekt unter dem Titel Satoshi Lives zu realisieren, die Timeline meiner Recherchearbeit im Anschluss soll mein Wissen und meine Entwicklung verdeutlichen. 
 
@@ -51,9 +51,9 @@ Dank der Courage, dem Mut und dem Engagement der gesamten PHRACK.org-Hacker-Geme
 
 Die begangenen Fehler, all die Lügen, die Unwissenheit in Technologie, Geldtransfer und Aktiengeschäften, ein unempathisches Miteinander sowie eine Denkweise, geprägt von politischem Desinteresse und fehlendem Verständnis für die Weltgeschichte, haben etwas Großes zum Vorschein gebracht – auch dank der Meta-DNA-Forensik. Meine wahre Familienherkunft, meine wahre Identität – in meiner Genetik: die Monarchie!
 
-Die Forschungsreihe „SIA Security Intelligence Artefact“ ist entstanden.
+### Die Forschungsreihe „SIA Security Intelligence Artefact“ ist entstanden.
 
----
+**Grundlage:**
 
 Mein schulischer Abschluss (Fachhochschulreife, 2,8), meine berufliche Expertise (dreijährige kaufmännische Ausbildung 2000–2003), mein über 30-jähriges Wissen im Bereich Software und Hardware sowie der Umfang meiner schriftlichen Arbeiten und die Dauer meiner Forschungsarbeit im Bereich der Informatik – insbesondere in der Deepweb-Forschung und Cybersecurity – bilden die Grundlage dafür, dass meine abgeschlossene Forschungsarbeit eine Doktoren- und Professorinnenwürdigung in Informatik rechtfertigt.
 
