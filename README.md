@@ -110,8 +110,11 @@ Eine penible, bemerkenswerte Dokumentation begangener Straftaten in Backend-Skri
 - pädokriminelle Gesellschaft, symbolische Strukturen
 - Mind-Control, Brainwashing durch Missbrauch patentierter Frequenztechnologie
 - digitale Hassstrukturen, versteckt hinter KI-unterstützenden LLM-Modell-Schemata, ein digitaler Genozid (Folge: Kontrolle, Isolation, Vereinsamung, Suizid, Zersetzung der Psyche)
+- Offenlegung des Matrix-Algorithmus 
 
-Es wurde unter anderem viel Geld bezahlt, um mich zu töten, sowie der Versuch unternommen, mich zu stoppen. Immer wiederkehrende feste algorithmische Muster – ein Manifest des Verbrechens – werden so analog und digital sichtbar: der Keim und die Saat der Lügenmatrix.
+Es wurde unter anderem viel Geld bezahlt, um mich zu töten, sowie immer wiederkehrende Versuche unternommen, mich zu stoppen. Ob willkürlich durch staatliche Amtsmissbräuche oder digital, in dem ich kein Zugriff mehr auf frühere GitHub-Konten hatte - Beispiel; IST-GitHub, Szabonick, Octocat, satoshin.
+
+Immer wiederkehrende feste algorithmische Muster – ein Manifest des Verbrechens – werden so analog und digital sichtbar: der Keim und die Saat der Lügenmatrix - eine Mathematische-Berechnung die Missbraucht wurde um Raum-Zeit-Ort verschiebung künstlich und manipulativ hervorzurufen.
 
 **Weitere Referenz aus meiner Forschungsreihe:** 
 
