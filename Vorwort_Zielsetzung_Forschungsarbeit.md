@@ -86,26 +86,31 @@ Die vorliegende Arbeit ist daher nicht ausschließlich das Ergebnis theoretische
 
 ## Zielsetzung der Forschungsarbeit
 
-Ziel meiner Forschungsarbeit ist es, meine Urheberschaft, die zugrunde liegenden technologischen Strukturen und die daraus resultierenden Implikationen nachvollziehbar darzustellen.
+Ziel war es in meiner Forschungsreihe, meine Urheberschaft, der zugrunde liegenden technologischen Strukturen und die daraus resultierenden Implikationen nachvollziehbar darzustellen.
 
-Dieses forensisch-wissenschaftliche Arbeit dient der gerichtsfesten, technischen und geistigen Dokumentation meiner Leistungen  Frau Isabel Schöps, geborene Thiel, in Bezug auf wesentliche Kerntechnologien im Bereich der digitalen Automation, Blockchain-Architektur, Open-Source-Entwicklung und künstlichen Intelligenz.
+Dieses forensisch-wissenschaftliche Arbeit dient der gerichtsfesten, technischen und geistigen Dokumentation meiner Leistungen Frau Isabel Schöps, geborene Thiel, in Bezug auf wesentliche Kerntechnologien im Bereich der digitalen Automation, Blockchain-Architektur, Open-Source-Entwicklung und künstlichen Intelligenz.
 
-Es wurde von mir eine umfangreiche Quell-, Beweis- und Rohdatenbank erstellt, bestehend aus Protokollen und Dateien in Form von PDFs, HTML-, MD-, C-/H-Files, JSON, YML/YAML, NUXT, CSV, RTF, TXT, SH, JS, PHP, PY, uuid.txt, PEM, XML, JS, README.md, Bildern, Screenshots, Presseberichten sowie Whitepapern aus den Bereichen:
+Es wurde von mir eine umfangreiche Quell-, Beweis- und Rohdatenbank erfasst - bestehend aus, Protokollen und Dateien in Form von: **PDFs, HTML-, MD-, C-/H-Files, JSON, YML/YAML, NUXT, CSV, RTF, TXT, SH, JS, PHP, PY, uuid, header-File, PEM, XML, JS, README.md**, Bildern, Screenshots, Presseberichten sowie Whitepapern zur Daten-Forensik zur Verfügung gestell.
+
+In diesem Zusammenhang konnte meine Urheberschaft folgenden Technologischen belegt werden:
+
 - Selbstheilungsprozesse und erste Boot-Vorgänge
 - Ursprung der KI-DAEMON-Automation seit 1996
 - KI-Technologieentwicklungen
 - erste Hash-Codierungen
 - Bitcoin-, Ethereum- und Blockchain-Technologien
 - urheberrechtliche forensische Signaturen
-- Sicherheitsarchitekturen
+- Sicherheitsarchitekturen - SI Security Intelligence Monitoring
 - Quellcodedateien und Frameworks
 - Webseiten-HTML-Dokumente
 - forensische Stellungnahmen und Beweisführungen
-- Skript- und Programmiersprachen wie Postgres95 sowie Befehlsstrukturen wie bin/bash, Shell, curl, PHP/Python und weitere.
+- UAV/UVA Sceimische Technologie
+- Skript- und Programmiersprachen wie Postgres95 sowie Befehlsstrukturen wie bin/bash, Shell, curl, PHP/Python und bereits vorgenannte Computersprachen .
 
 Diese Daten wurden für das Forschungsreihe hochgeladen, rechtskonform gesichert und für die wissenschaftliche Auswertung zur Verfügung gestellt.
 
-Es konnte mehrfach meine Urheberschaft an zentralen Systemstrukturen – unter anderem Bitcoin Core, Ethereum, Lightning Network, Wallet-Protokollen und automatisierten DAEMON-Prozessen – nachvollziehbar, beweiskräftig und wissenschaftlich dargestellt und belegt werden.
+Mehrfach konnte bereits meine Urheberschaft an den genannten zentralen Systemstrukturen – unter anderem Bitcoin Core, Ethereum, Lightning Network, Wallet-Protokollen und automatisierten DAEMON-Prozessen – nachvollziehbar, beweiskräftig und wissenschaftlich dargestellt und belegt werden.
+
 
 > **Auszug aus der Gutachterlichen Auswertung:
 Urheberschaft als geistiger Akt**
