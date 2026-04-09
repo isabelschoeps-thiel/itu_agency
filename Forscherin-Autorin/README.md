@@ -8,11 +8,11 @@
 
 **Name:** Isabel Schöps geborene Thiel
 **Geburtsdatum:** 16. Juli 1983
-**Geburtsort:** Sömmerda, Thüringen, Deutschland
+**Geburtsort:** 23:20 Uhr im Kreiskrankenhaus Sömmerda, Thüringen, Deutschland
 
 **Nationalität:** Deutsch
 
-**Aktueller Wohnort:** 1 Raumwohunung, 1.Etage, Hütergasse 4, D-99084, Erfurt, Thüringen Deutschland. 
+**Aktueller Wohnort:** 1 Raumwohunung Nr.13, 1.Etage, Hütergasse 4, D-99084, Erfurt, Thüringen Deutschland. 
 
 **Beruf,Meilenstein:** Unternehmerin, Programmiererin, Technologiepionierin, Ai Intelligence, DAEMON-Automation, Bitcoin-Ethereum
 
