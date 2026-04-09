@@ -43,6 +43,11 @@ Eine penible, bemerkenswerte Dokumentation begangener Straftaten in Backend-Skri
 
 Es wurde unter anderem viel Geld bezahlt, um mich zu töten, sowie der Versuch unternommen, mich zu stoppen. Immer wiederkehrende feste algorithmische Muster – ein Manifest des Verbrechens – werden so analog und digital sichtbar: der Keim und die Saat der Lügenmatrix.
 
+**Weitere Referenz aus meiner Forschungsreihe:**
+
+Isabel Schöps geb. Thiel (2026), **Die Lügenmatrix und ihr Ende** (Release: beweismatrix_sieg_heil_den_frieden_HR_06_02_2026). Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. [https://doi.org/10.5281/zenodo.18500830
+](https://doi.org/10.5281/zenodo.18500830)
+
 Hinzu kommt die ungewollte Dokumentation ihrer bestialischen, hasserfüllten Denkweise über Jahrhunderte und Jahrtausende hinweg, welche dank der Technologie protokolliert und ins System transportiert wurde. Ihr Kontrollzwang, der Missbrauch der VR-Technologie und das Einhacken in fremde Räume sowie der Diebstahl digitaler Identitäten werden Ihnen hierbei dank Meta-Forensik zu Ihrem eigenen Verräter und zugleich zur Offenlegung meiner wahren Identität.
 
 Der tief verwurzelte Hass mir gegenüber – warum auch immer – wirft bei mir viele Fragen auf. So entstanden auch meine Forschungsfragen.
