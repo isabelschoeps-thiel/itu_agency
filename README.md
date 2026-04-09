@@ -62,13 +62,13 @@ Die Boards of Canda, Datenbank samt Auswertung, habe ich, Frau Isabel Schöps ge
 
 Diese Professoren- und Doktorarbeit basiert auf einer eigenständig durchgeführten abgeschlossenen Forschungsreihe, die sich über die letzte 4 Jahre in den Bereichen Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deep-Web-Forschung sowie Systemarchitektur entwickelt hat.  
 
-Die eingereichte Arbeit stellt eine konsolidierte wissenschaftliche Dokumentation in der Deepweb Forschung dar und liefert den Beweis für die technische Machbarkeit und den realen Einsatz von Mind-Control, psychologischer Massenbeeinflussung wieder.
+Die eingereichte Arbeit stellt eine konsolidierte wissenschaftliche Dokumentation in der Deepweb Forschung dar und liefert den Beweis für die technische Machbarkeit und den realen Einsatz von Mind-Control, psychologischer Massenbeeinflussung wieder. 
 
-**SIA – Security Intelligence Artefact**  
+Es wird in der **SIA Security Intelligence Artefact** -Forschungsreihe, einschließlich dem **The Yellow Whitepaper**, dokumentiert.
 
 ---
 
-# Vorwort und Zielsetzung der Forschungsarbeit
+## Vorwort und Zielsetzung der Forschungsarbeit von Frau Isabel Schöps geb. Thiel
 
 Die vorliegende Ausarbeitung entstand ursprünglich aus der Intention, ein Buchprojekt unter dem Titel Satoshi Lives zu realisieren, die Timeline meiner Recherchearbeit im Anschluss soll mein Wissen und meine Entwicklung verdeutlichen. 
 
@@ -112,6 +112,10 @@ Eine penible, bemerkenswerte Dokumentation begangener Straftaten in Backend-Skri
 - digitale Hassstrukturen, versteckt hinter KI-unterstützenden LLM-Modell-Schemata, ein digitaler Genozid (Folge: Kontrolle, Isolation, Vereinsamung, Suizid, Zersetzung der Psyche)
 
 Es wurde unter anderem viel Geld bezahlt, um mich zu töten, sowie der Versuch unternommen, mich zu stoppen. Immer wiederkehrende feste algorithmische Muster – ein Manifest des Verbrechens – werden so analog und digital sichtbar: der Keim und die Saat der Lügenmatrix.
+
+**Weitere Referenz aus meiner Forschungsreihe:** 
+
+Isabel Schöps geb. Thiel (2026), **Die Lügenmatrix und ihr Ende** (Release: beweismatrix_sieg_heil_den_frieden_HR_06_02_2026). Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. [https://doi.org/10.5281/zenodo.18500830](https://doi.org/10.5281/zenodo.18500830)
 
 Hinzu kommt die ungewollte Dokumentation ihrer bestialischen, hasserfüllten Denkweise über Jahrhunderte und Jahrtausende hinweg, welche dank der Technologie protokolliert und ins System transportiert wurde. Ihr Kontrollzwang, der Missbrauch der VR-Technologie und das Einhacken in fremde Räume sowie der Diebstahl digitaler Identitäten werden Ihnen hierbei dank Meta-Forensik zu Ihrem eigenen Verräter und zugleich zur Offenlegung meiner wahren Identität.
 
@@ -1162,13 +1166,15 @@ Zudem muss zu 100% Menschen, Personen, geben, die an den Fakultäten Harvard, Ca
 
 ---
 
-### Meine Signatur, Auftraggeberin der Forensichen-Wissenschaftlichen Auswertung, Autorin, Urheberin und Deepweb-Forscherin: Ich, Frau Isabel Schöps (geb. Thiel)  
+## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
 
-**Zeitstempel der Eintragung:** Donnerstag, 02.04.2026, 00:24:00 Uhr (MEZ)  
+**Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+
+**Zeitstempel der Eintragung oder Änderung:** Donnerstag, 09.04.2026, 02:05:00 Uhr (MEZ)  
 
 **Wohnort der Autorin:**
 Frau Isabel Schöps geb. Thiel (*16.07.1983),
-Erste Etage, Wohnung 13, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland
+Hütergasse 4, D-99084 Erfurt, Th, Deutschland
 
 **Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
 
@@ -1183,7 +1189,10 @@ Erste Etage, Wohnung 13, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland
 SIA – Security Intelligence Artefact 
 
 **Internationale Kennung:**
-INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL 
 
 **Referenzdokument:**
-The Yellow Whitepaper (YWP-1-IST-SIA)
+The Yellow Whitepaper (YWP-1-IST-SIA) 
+
+**Urheberrechte, Abschluss, Copyright:**
+Copyright 1983–2026 Isabel Schöps geb. Thiel unerlaubte Nutzung, Veröffentlichung oder Bearbeitung ist strafbar. Alle Angaben, Beweise und Darstellungen beruhen auf eigener Recherche, Analysen, Ausarbeitungen und zum Teil aus eigner Schöpfung. Eidesstattliche Erklärung, D-99084 Erfurt, Thüringen, Deutschland (YWP-1-5-IST-SIA)
