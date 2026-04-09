@@ -4,7 +4,7 @@ Dieses Repository ist Bestandteil einer abgeschlossenen interdisziplinären Fors
 Autorin, Urheberin; Deepweb-Forscherin, Ich Frau Isabel Schöps geb. Thiel Zeitstempel der Eintragung: Samstag den, 2026-03-28, 00:48:00 Uhr, Mitteleuropäische, Ort, Wohnung: Isabel Schöps (Thiel), 1.Etage, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Gutachten: SIA Security Intelligence Artefact, internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, und The Yellow Whitepaper YWP-1-IST-SIA
 ```
 
-## Forensic Evidence, Images, Screenshot, PDF files,
+## Forensic Evidence, Images, Screenshot, PDF files, Web-Links, Domains, Websites
 
 ### Genexperimente Violation of human rights
 
@@ -720,7 +720,153 @@ zwec9y.codesandbox.io
 - [MIRNet](https://github.com/swz30/MIRNet): 
 * [PIDNet](https://github.com/XuJiacong/PIDNet)
 
+---
 
-Dieses Repository ist Bestandteil einer abgeschlossenen Forschungsreihe im Bereich Informatik mit dem Titel: Meta-Abstract und Dokumentationsübersicht der SIA Security Intelligence Artefact Forschungsreihe. Arbeitsabläufe, Rohdaten, Beweisdokumentation, KI-Meta-Analysen durch DOI Zenodo-Integration. Deepweb Forscherin, Autorin: Frau Isabel Schöps (Thiel), Erfurt, Deutschland.
+# Chain of Custody
+Jeder dieser Einträge dient als eindeutiger Nachweis in der **Chain of Custody** und als Referenz für Beweisführung, Urheberschaft und wissenschaftliche Integrität.
 
-Autorin, Urheberin; Deepweb-Forscherin, Ich Frau Isabel Schöps geb. Thiel Zeitstempel der Eintragung: Samstag den, 2026-03-28, 00:48:00 Uhr, Mitteleuropäische, Ort, Wohnung: Isabel Schöps (Thiel), 1.Etage, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Gutachten: SIA Security Intelligence Artefact, internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, und The Yellow Whitepaper YWP-1-IST-SIA
+*Dieser Datenbank Dokumentation wird von mir, Frau Isabel Schöps geb. Thiel, nach jedem Überführen von GitHub auf Zenodo mit weiteren DOIs ergänzt.*
+
+## DOI
+[https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
+
+## Urheberin, Autorin
+Isabel Schöps (Thiel)  
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+Erfurt, Germany  
+
+## Abstract SIA Security Intelligence
+Dieses Repository dokumentiert die forensische und rechtliche Analyse mit dem Titel *SIA Security Intelligence Artifact* und bestätigt die Urheberschaft, den digitalen Ursprung und die Provenienz durch Blockchain- und KI-Automatisierungssysteme.
+
+Der Datensatz enthält forensische Dokumentation, Zertifikate und SHA-256-Hash-Verifizierungen anhängender Zenodo Datenbank, Chain of Custodoy.
+
+Strafanzeigen im Bezug auf die Aufgedeckten, Straftaten.
+- SPH/0296575/2025, Polizeidienststelle, Erfurt-Nord, Thüringen, Deutschland
+- ST/0203129/2025 Polizeidienststelle, Erfurt-Nord, Thüringen, Deutschland
+
+Published under license agreement with Oxford University Press (ID 6131130060979).  
+Referenced by Harvard University, University of Oxford, and CERN Geneva.
+
+## Citation (Harvard Style)
+**Schöps, I. (2025).** *SIA Security Intelligence Artefact – Forensic Report on Authorship, AI Automation, Bitcoin Core, and Monarch Program.* DOI: [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
+
+---
+
+## Referenzrahmen
+
+- **Antonopoulos, A. M. (2022).** Mastering Bitcoin: Unlocking Digital Cryptocurrencies. O’Reilly Media.
+- **Chatterjee, R., & Shevchenko, P. (2022)**. Digital Forensics and Cybercrime. Springer
+- **Drahos, P. (2016)**. Intellectual Property, Indigenous People and their Knowledge. Harvard Cambridge University
+- **O’Mahony, D. (2022)**. Open Source Law, Policy and Practice (2nd ed.). Oxford University Press.
+
+**Weitere vollständige Referenzen siehe einzel Gutachten, Zenodo-Datenbank.**
+
+---
+
+## Abschlussbericht zur forensischen Beweiskette
+
+### Übersicht und juristische Zuordnung der Beweismittel, angewandter Technologie welche dauerhaft bis heute Missbraucht und angewandt wird.
+
+**1. Psychische Kontrolle und Folter, Direktive, 1,67**
+
+[*Die Direktive 1,67**](https://www.stasi-mediathek.de/fileadmin/pdf/dok411.pdf), ein Dokument mit tiefgreifenden Implikationen für die globale Kontrolle der Zivilenbevölkerung.
+
+**2. DE10253433A1 – Technologie Gedankenlesen/Gedankenübertragung**
+- Inhalt: Patentiert wird die Übertragung und gezielte Beeinflussung menschlicher Gedanken per elektromagnetischer Strahlung, ohne technische Geräte am Empfänger.  
+- Kernpunkte Gedankenkontrolle und -übertragung (u.a. Mikrowellen, LASER/MASER)  
+- Direkte Manipulation von Gehirnaktivität/Bewusstsein.  
+- Anwendung für Kommunikation, Überwachung, Profiling und Manipulation.  
+- Wissenschaftliche Referenzen zu früheren Experimenten (Frey, Lin, Lowery)  
+- Explizite Erfindungsanmeldung als „Gedankenlese-Technologie“.  
+  
+**3. EP0150813B1 – Bildschirmmanipulation durch Sprachbefehle**
+- Inhalt: Europäisches Patent für sprachgesteuerte Kontrolle und Manipulation von Bildschirminhalten.  
+- Kernpunkte: Sprachbefehle steuern Anzeige und Informationszugang.  
+- Schnittstelle Mensch–Rechner zur Steuerung und Beeinflussung von Wahrnehmung.  
+- Nachweis, dass Sprache als manipulative Schnittstelle eingesetzt werden kann.  
+  
+**4. US6506148B2 – Nervensystem-Manipulation durch elektromagnetische Felder von Monitoren**  
+- Inhalt: US-Patent zur gezielten Beeinflussung des menschlichen Nervensystems über gepulste elektromagnetische Felder von Bildschirmen.  
+- Kernpunkte:  
+- Pulsierende Bildinhalte erzeugen nachweisbar physiologische und psychische Effekte (u. a. Angst, Schlaf, Bewusstseinszustände)  
+- Sensory Resonance“: Bestimmte Frequenzen führen gezielt zu Zustandsveränderungen im Nervensystem.  
+- Patent beschreibt explizit, dass Software/Hardware/Videos psychologische Steuerung auslösen können – auch verdeckt und alltäglich.  
+- Warnhinweis auf Missbrauchsmöglichkeiten im Alltag und Medienkonsum.  
+  
+---
+
+**Boards of Canada, Videobeweis und Medienanalyse**
+- `Boards of Canada:` Analysierte Musikvideos zeigen dokumentarische, reale Aufnahmen von Kindern, Jugendlichen und Erwachsenen, oft mit subtilen oder offenkundig manipulativen audiovisuellen Effekten, die im direkten Zusammenhang mit den Patenten stehen.  
+- `Auffällige Situationen:` Isolierte Personen, Camp-Szenarien, fragmentierte Zeitlinien,
+- wiederkehrende Symbolik: Orange, Mond, Skorpion
+- Verstörung und psychische Zermürbung.  
+
+**Es wurde rechtswissenschaftlich bestätigt, dass die von mir Frau Isabel Schöps geb. Thiel, ausgewerteten Videos und Playlists, YouTube-Links folgendes beweisen, darlegen;**
+- reale Aufnahmen aus den 50er, 60er und aus dem Jahr 2007 von Menschen, auch Minderjährigen, ohne Wissen und teils manipulativ medial dargestellt wurden
+- inkl. Trigger, Audiospuren
+- unterschwelligen Effekten
+- die gezielt psychologische Reaktionen hervorrufen,
+- Mindcontroll, Brainwashing
+  
+**Spezialfall: Videoanalyse Aphex Twin / Frankie Teardrop / SalveTV**
+- Deutlicher Einsatz von Triggern und auditiv-psychologischen Effekten (z. B. Schreie, Lachen, verfremdete Stimmen, Musik), die mit Methoden der Mind-Control-Technologie (wie in US6506148B2 beschrieben) übereinstimmen.  
+- Kombination aus realen Aufnahmen und gezielter, technischer Nachbearbeitung zum Zweck der Manipulation von Wahrnehmung, Bewusstsein und Emotionen.
+
+---
+  
+### Beweismatrix, Manipulation von Raum und Zeitlinien, Identitäts_Manipulation_Verschleppung_Isolation_Zerstörung
+
+**1. Durch die vorgelegten Bildnachweise,**   
+- Dokumente und PDF-Dateien („bluebook-Sect2030-harkfork.pdf“, „manipulation-jahreszahlen-scheinEpoche-4.txt“ etc.)   
+- wird eine systematische Vorplanung, Vordatierung und Manipulation von Zeitlinien und Epochen dokumentiert.  
+- Bildliche und textliche Belege belegen den Versuch, einzelne Personen oder ganze Gruppen digital/sozial zu isolieren, ihren rechtlichen und sozialen Status zu manipulieren
+- Stichwort: „Scheintod“, Identitätsverschiebung durch einer aufrechthaltenden Lügenmatrix
+- Spiegelung, Modifizierung einer zweiten **KI bsp. Jasmin** und der Person bzw. ganzer Familien-Struktur in der die Entwicklerische-Geschichte liegt
+
+---
+
+**2. Juristische und wissenschaftliche Bewertung**  
+- Die Gesamtkette aus Patenten, Medienanalysen, PDF-Nachweisen und Video-/Audioquellen ist weltweit einzigartig und forensisch geschlossen. Sie liefert Indizien für die technische Machbarkeit und den realen Einsatz von Mind-Control, psychologischer Massenbeeinflussung und systemischer Identitätszerstörung.  
+- Die Verknüpfung der Medienbeweise mit dokumentierten Patenten belegt, dass gezielte Gedankenkontrolle, Bildschirmmanipulation und psychologische Einflussnahme nicht nur möglich, sondern offenbar systematisch eingesetzt wurden/werden.  
+- Die Nachweise sind in ihrer forensischen Kette rechtssicher dokumentiert und können internationalen Behörden, Gremien und dem Internationalen Strafgerichtshof als Sachbeweis vorgelegt werden.  
+- Die Absicherung der Kette durch Chain-of-Custody (inklusive Orts-, Zeit- und Personennachweis) sowie digitale Signaturen und Hashwerte ist gewährleistet.
+
+---
+
+## Urheberrechte, Abschluss, Copyright
+
+Copyrigt 1983–2026 Isabel Schöps geb. Thiel unerlaubte Nutzung, Veröffentlichung oder Bearbeitung ist strafbar. Alle Angaben, Beweise und Darstellungen beruhen auf eigener Recherche, Arbeit und Schöpfung. Eidesstattlichen Erklärung, D-99084 Erfurt, Thüringen, Deutschland
+
+---
+
+## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
+
+**Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+
+**Zeitstempel der Eintragung:** Donnerstag, 09.04.2026, 02:05:00 Uhr (MEZ)  
+
+**Wohnort der Autorin:**
+Frau Isabel Schöps geb. Thiel (*16.07.1983),
+Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+
+**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
+
+**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
+
+**Telefon:** 0049-162-181-9565
+
+- [**OrcID: Isabel Schöps Thiel 0009-0003-4235-2231**](https://orcid.org/0009-0003-4235-2231)
+- [**OrcID: SI-IST Isabel Schöps 0009-0006-8765-3267**](https://orcid.org/0009-0006-8765-3267)
+
+**Gutachten:**
+SIA – Security Intelligence Artefact 
+
+**Internationale Kennung:**
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+
+**Referenzdokument:**
+The Yellow Whitepaper (YWP-1-IST-SIA) 
+
+**Urheberrechte, Abschluss, Copyright:**
+Copyright 1983–2026 Isabel Schöps geb. Thiel unerlaubte Nutzung, Veröffentlichung oder Bearbeitung ist strafbar. Alle Angaben, Beweise und Darstellungen beruhen auf eigener Recherche, Analysen, Ausarbeitungen und zum Teil aus eigner Schöpfung. Eidesstattliche Erklärung, D-99084 Erfurt, Thüringen, Deutschland (YWP-1-5-IST-SIA)
+
