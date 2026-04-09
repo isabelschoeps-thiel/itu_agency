@@ -8,6 +8,7 @@
 
 **Name:** Isabel Schöps geborene Thiel
 **Geburtsdatum:** 16. Juli 1983
+
 **Geburtsort:** 23:20 Uhr im Kreiskrankenhaus Sömmerda, Thüringen, Deutschland
 
 **Nationalität:** Deutsch
