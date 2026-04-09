@@ -134,13 +134,17 @@ Diese Arbeit basiert auf einer Kombination aus technischer Analyse und empirisch
 
 ---
 
-## Literaturverzeichnis Harvard-Citation
+## Referenzdatenbank, Literaturverzeichnis Harvard-Citation
 
 Schöps Thiel, I. (2026):  
-*Boards of Canada – Evidence Release*. Zenodo.  
+*Boards of Canada – Evidence Release*. Zenodo. 
 DOI: https://doi.org/10.5281/zenodo.18380414  
 
-Isabel Schöps geb. Thiel und Schöps geb. Thiel, I. (2026) „Die Lügenmatrix und ihr Ende sieg_heil_den_frieden_HR_06_02_2026“. Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. DOI: https://doi.org10.5281/zenodo.18500830.
+Isabel Schöps geb. Thiel, I. (2026):
+*„Die Lügenmatrix und ihr Ende"*, Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. 
+DOI: https://doi.org/10.5281/zenodo.18500830
+
+Isabel Schöps geb. Thiel, . 0009 .-. 0003 .-. 4235 .-. 2231 .Schöps geb. Thiel, I. (2026): *„Harvard Release and Research Funding 1.0“.* Zenodo, GitHub, Harvard, Oxford, Cambridge. DOI: https://doi.org/10.5281/zenodo.18308281
 
 Kryptographische Grundlage:  
 Hash-Kollisionsverfahren (Birthday-Attacke, speicheroptimierte Variante), basierend auf iterativen Sequenzmodellen.
