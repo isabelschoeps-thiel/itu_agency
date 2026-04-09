@@ -1,4 +1,5 @@
-# Deterministische Hash-Sequenzalgorithmen und deren missbräuchliche Nutzung in digitalen Identitätsstrukturen  
+# Matrix-Alogrithmus
+## Deterministische Hash-Sequenzalgorithmen und deren missbräuchliche Nutzung in digitalen Identitätsstrukturen  
 ## Eine forensische und interdisziplinäre Analyse algorithmischer Vorhersagbarkeit und KI-basierter Bedrohungsarchitekturen  
 
 ---
@@ -133,11 +134,13 @@ Diese Arbeit basiert auf einer Kombination aus technischer Analyse und empirisch
 
 ---
 
-## Literaturverzeichnis (Harvard-Stil)  
+## Literaturverzeichnis Harvard-Citation
 
 Schöps Thiel, I. (2026):  
 *Boards of Canada – Evidence Release*. Zenodo.  
-https://doi.org/10.5281/zenodo.18380414  
+DOI: https://doi.org/10.5281/zenodo.18380414  
+
+Isabel Schöps geb. Thiel und Schöps geb. Thiel, I. (2026) „Die Lügenmatrix und ihr Ende sieg_heil_den_frieden_HR_06_02_2026“. Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. DOI: https://doi.org10.5281/zenodo.18500830.
 
 Kryptographische Grundlage:  
 Hash-Kollisionsverfahren (Birthday-Attacke, speicheroptimierte Variante), basierend auf iterativen Sequenzmodellen.
