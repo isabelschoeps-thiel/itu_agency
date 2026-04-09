@@ -1,6 +1,6 @@
 # Deepweb-Forschung 
 ## Doktorarbeit in Informatik  
-## abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D.)
+### abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D.)
 
 ---
 
@@ -29,18 +29,23 @@ Geburtsdatum: 16.07.1983
 
 ## Forschungsidentifikation  
 
-[ORCID: 0009-0003-4235-2231, Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231)
+[**ORCID: 0009-0003-4235-2231**, Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231)
 
-[Sekundäre Forschungs-ID: 0009-0006-8765-3267, SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267)
+[**ORCID: 0009-0006-8765-3267**, SI-IST Isabel Schöps, Sekundäre Forschungs-ID](https://orcid.org/0009-0006-8765-3267)
 
 **Internationale Kennung:**  
-INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+- INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 
 **Referenzdokument:**  
-YWP-1-IST-SIA  
+- YWP-1-IST-SIA
+- DOI: 10.5281/zenodo.18380414
 
 **Würdigung:**
 YWP-1-5-IST-SIA
+
+**Wichtige-Referenzdatenbank:**
+Die Boards of Canda, Datenbank samt Auswertung, habe ich, Frau Isabel Schöps geb. Thiel, bereits im Januar 2026 auf Zenodo hochgeladen und veröffentlicht. Hier habe ich noch in der Cyriakstrasse 30c in D-99094 Erfurt gelebt. *isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo.* [https://doi.org/10.5281/zenodo.18380414
+(https://doi.org/10.5281/zenodo.18380414)
 
 ---
 
@@ -57,14 +62,14 @@ Die eingereichte Arbeit stellt eine konsolidierte wissenschaftliche Dokumentatio
 ## Ort und Datum  
 
 Hütergasse 4  
-D-99084 Erfurt  
+D-99084 Erfurt, Thüringen
 Deutschland  
 
-02. April 2026
+09. April 2026
 
 ---
 
-**Dieses Repository ist Bestandteil einer abgeschlossenen interdisziplinären Forschungsreihe im Bereich Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deepweb Forschung und Analyse verteilter Systeme.**
+**Dieses Release, Repository, Forschungsprojekt ist Bestandteil einer abgeschlossenen interdisziplinären Forschungsreihe im Bereich: Informatik, Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deepweb-Forschung (Cyberkriminalität), Analyse verteilter Systeme und Meta-DNA-Forensic-Analyse.**
 
 Die Inhalte stehen im direkten Zusammenhang mit der Forschungsarbeit:
 
@@ -77,7 +82,9 @@ Im Rahmen meiner Web- und Tiefenforschung wurden audiovisuelle Inhalte und Playl
 
 Es lässt auf jeden fall darauf schliesen; da eine sehr große Zeitspanne, zwischen Aufnahme und Veröffentlichung von fast 70 Jahren liegt, dass die Videoaufnahmen, die Musikstücke, nicht von den Künstlen, Akteuren zur kommerziellen Nutzung für die Breitenmasse vorgesehen war. Sondern sollte vielmehr in einer ausgewählten kleineren Gemeinschaft, als Trophähe oder Widerveranschaulichung herangezogen werden - Sektenkult, oder in Satanistischen-Ritualen.
 
-**Fakt ist eins:** Hinter jedem der hier veröffentlichten YouTube-Links steht ein Verbrechen. 
+**Wichtig ist festzuhalten:** Hinter jedem der hier veröffentlichten YouTube-Links steht ein Verbrechen, sei es in Form von physischer oder psyschicher Gewalt. Ich bin keine Strafermittlerin oder gehöre einer dieser Behörden an, es liegt in der Pflicht der internationalen Staatsorgane und desen Vertreter diesem Märtyrium ein Ende zu setzen und die Verantwortlichen zur Rechenschaft zu ziehen. 
+
+Täter, Opfer, Wissende sind am Leben  
 
 **Ziel dieses Repositories:**
 Eine Dokumentation, Archivierung, der Youtube Links, Beweissbilder, PDF-Files, im wissenschaftliche-Kontext und als Referenz-Repository meiner abgeschlossenen Forschungsarbeit und zur Veranschaulichung und der technischen Machbarkeit und den Medialen-Einsatz von Mind-Control, psychologischer Massenbeeinflussung durch den Missbrauch Seicmischer-Frequenztechnologie, Brainwashing, Gehirnscans, im Zusammenhang von Scheintod,  Identitätsdiebstahl, Versklavung, Kommerziellen Kinder-Menschenhandel, die Kinderpsysche für Pädophile-Netzwerk gefügig zu machen.  
@@ -975,8 +982,6 @@ Arató, Paulus. “Bibliographia Historiae Pontificiae.” Archivum Historiae Po
 - Diese Zusammenfassung dient als Abschlussbericht, ist vollständig revisionssicher und geeignet für die Vorlage bei Behörden, Gerichten und wissenschaftlichen Gremien. Die Daten sind entsprechend in der Chain-of-Custody dokumentiert.
 
 Es bleibt neutral festgehalten, dass diese Inhalte Indizien liefern, jedoch für sich allein noch keine individuellen Opfer- oder Täter-Nachweise enthalten. 
-
-**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo. [https://doi.org/10.5281/zenodo.18380414](https://doi.org/10.5281/zenodo.18380414)
 
 ### Deshalb mein Apeell an Sie:
 **wenn sie sich ggf wieder erkennen, sie Bekannte oder ein Familienangehörige sind oder sie anderweitig Mithilfe geben können, bitte helfen Sie.**
