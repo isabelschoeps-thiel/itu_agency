@@ -350,6 +350,168 @@ Und du hast es vollständig verstanden.
 
 ---
 
+# High-Risk, Critical Incident  
+## Wissenschaftliche, forensische und sicherheitstechnische Einordnung
+
+---
+
+## 1. Definition und Gesamtbedeutung
+
+Der Begriff **„High-Risk, Critical Incident“** bezeichnet ein sicherheitsrelevantes Ereignis, das aufgrund seiner Eintrittswahrscheinlichkeit, seines Schadenspotenzials und seiner systemischen Auswirkungen als **höchste Eskalationsstufe innerhalb einer Sicherheitsarchitektur** eingestuft wird.
+
+Es handelt sich nicht um eine gewöhnliche Störung, sondern um einen Zustand, in dem:
+
+- die **Integrität**,  
+- die **Verfügbarkeit** oder  
+- die **Vertraulichkeit**  
+
+kritischer Systeme erheblich gefährdet oder bereits kompromittiert ist.
+
+---
+
+## 2. Begriffliche Komponenten
+
+### 2.1 High-Risk
+
+„High-Risk“ beschreibt ein Risiko mit:
+
+- hoher Eintrittswahrscheinlichkeit und/oder  
+- erheblichem Schadensausmaß  
+
+Grundlage ist die Risikofunktion:
+
+> **Risiko = Eintrittswahrscheinlichkeit × Schadensausmaß**
+
+Ein „High-Risk“-Szenario liegt vor, wenn mindestens einer dieser Faktoren signifikant erhöht ist – in kritischen Fällen beide.
+
+---
+
+### 2.2 Critical Incident
+
+Ein „Critical Incident“ ist ein Ereignis, das:
+
+- den regulären Betrieb wesentlich beeinträchtigt oder unterbricht  
+- zentrale Kontrollmechanismen außer Kraft setzt  
+- eine unmittelbare Reaktion erfordert  
+
+Es stellt einen **Systembruch** dar und wird in Bereichen wie IT-Sicherheit, Medizin, Luftfahrt und militärischer Lagebewertung einheitlich als schwerwiegender Vorfall klassifiziert.
+
+---
+
+## 3. Kombinierte Bewertung
+
+Die Kombination **„High-Risk, Critical Incident“** beschreibt ein Ereignis, das:
+
+- bereits eingetreten ist oder mit hoher Wahrscheinlichkeit eintritt  
+- signifikanten oder irreversiblen Schaden verursacht  
+- kritische Systeme oder Infrastrukturen direkt betrifft  
+
+Diese Klassifikation entspricht der höchsten operativen Prioritätsstufe.
+
+---
+
+## 4. Einordnung in Sicherheitsframeworks
+
+In etablierten Standards wie:
+
+- ISO/IEC 27001  
+- NIST Cybersecurity Framework  
+- Incident Response Modellen  
+
+entspricht dies typischerweise:
+
+> **Severity Level: SEV-1 / CRITICAL**
+
+### Charakteristische Merkmale:
+
+- vollständiger oder teilweiser Systemausfall  
+- Verlust der Systemkontrolle  
+- Datenkompromittierung oder Manipulation  
+- potenzielle Gefährdung von Personen oder Organisationen  
+- sofortiger Handlungsbedarf ohne Verzögerungsspielraum  
+
+---
+
+## 5. Mehrdimensionale Analyse eines Sicherheitsvorfalls
+
+### 5.1 Technische Dimension
+
+- unautorisierter Zugriff auf Systeme  
+- Manipulation von Daten oder Prozessen  
+- Umgehung bestehender Sicherheitsmechanismen  
+
+---
+
+### 5.2 Operative Dimension
+
+- Ausfall geschäftskritischer Funktionen  
+- Unterbrechung zentraler Prozesse  
+- Kontrollverlust über IT- oder Infrastruktursysteme  
+
+---
+
+### 5.3 Forensische Dimension
+
+- Hinweise auf gezielte, koordinierte Angriffe  
+- Verschleierung oder Manipulation von Spuren  
+- mögliche Mehrfach- oder Langzeitangriffe  
+
+---
+
+### 5.4 Risiko- und Schadensdimension
+
+- erheblicher finanzieller Schaden  
+- Reputationsverlust  
+- rechtliche Konsequenzen  
+- potenzielle Gefährdung von Personen  
+
+---
+
+## 6. Abgrenzung zu anderen Vorfallstypen
+
+| Kategorie | Einordnung |
+|----------|-----------|
+| Low Incident | Geringfügige Störung |
+| Medium Incident | Begrenzte Auswirkungen |
+| High Incident | Ernsthafte Störung |
+| **High-Risk, Critical Incident** | **Systemkritischer Ausnahmezustand mit maximaler Eskalation** |
+
+---
+
+## 7. Strategische Gesamtbewertung
+
+Ein **High-Risk, Critical Incident** stellt eine akute Gefährdungslage dar, die:
+
+- unmittelbare Maßnahmen erfordert  
+- systemübergreifende Auswirkungen haben kann  
+- auf höchster Ebene koordiniert werden muss  
+
+Diese Einstufung wird ausschließlich bei Vorfällen verwendet, die:
+
+- existenzielle Auswirkungen auf Systeme oder Organisationen haben  
+- nicht durch Standardmaßnahmen kontrollierbar sind  
+
+---
+
+## 8. Standardisierte Reaktionsmaßnahmen
+
+Im professionellen Sicherheitsmanagement werden unmittelbar eingeleitet:
+
+- Aktivierung eines Incident-Response-Teams  
+- Isolation betroffener Systeme (Containment)  
+- Forensische Sicherung aller relevanten Daten  
+- Ursachenanalyse (Root Cause Analysis)  
+- Kommunikation an zuständige Stellen und Stakeholder  
+- kontrollierte Wiederherstellung (Recovery)  
+
+---
+
+## 9. Gerichtsfeste Definition
+
+**Ein „High-Risk, Critical Incident“ bezeichnet ein sicherheitsrelevantes Ereignis mit hoher Eintrittswahrscheinlichkeit oder bereits eingetretenem Schadensfall, das aufgrund seiner Tragweite die Integrität, Verfügbarkeit oder Vertraulichkeit kritischer Systeme erheblich beeinträchtigt und eine sofortige, koordinierte Reaktion auf höchster Eskalationsstufe erfordert.**
+
+---
+
 ## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
 
 **Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
