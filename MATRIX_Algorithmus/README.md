@@ -150,7 +150,10 @@ Isabel Schöps geb. Thiel, . 0009 .-. 0003 .-. 4235 .-. 2231 .Schöps geb. Thiel
 Schöps geb. Thiel, I., Thiel, I. (2026)
 *Evidence Linguist Criminal Console* Zenodo. DOI: https://doi.org/10.5281/zenodo.18227968
 
-Kryptographische Grundlage:  
+Isabel Schöps Thiel, Thiel, I. (2025). isabelschoeps-thiel/protocolsio: *Protocol Integrity & Authorship Anomaly*. Zenodo. 
+DOI: https://doi.org/10.5281/zenodo.18100836
+
+**Kryptographische Grundlage:**
 Hash-Kollisionsverfahren (Birthday-Attacke, speicheroptimierte Variante), basierend auf iterativen Sequenzmodellen.
 
 ---
