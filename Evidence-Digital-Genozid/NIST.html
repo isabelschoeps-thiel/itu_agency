@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Threat Model | INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 2.5rem;
+            color: #111;
+            line-height: 1.6;
+            font-size: 1rem;
+        }
+        h1, h2, h3 {
+            margin-top: 1.8rem;
+            margin-bottom: 0.6rem;
+            font-weight: 700;
+        }
+        h1 {
+            font-size: 1.8rem;
+        }
+        h2 {
+            font-size: 1.3rem;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 0.2rem;
+        }
+        h3 {
+            font-size: 1.08rem;
+        }
+        .meta, .signatur, .harvard, .rechtlich {
+            margin-top: 1.5rem;
+            padding: 1rem 1.2rem;
+            border: 1px solid #cfcfcf;
+        }
+        .label {
+            font-weight: 700;
+        }
+        ul {
+            margin-top: 0.4rem;
+            margin-bottom: 1rem;
+        }
+        li {
+            margin-bottom: 0.35rem;
+        }
+        p {
+            margin-top: 0.4rem;
+            margin-bottom: 0.9rem;
+        }
+        .small {
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Forensisches Bedrohungsmodell</h1>
+
+    <div class="meta">
+        <div><span class="label">Aktenzeichen:</span> INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</div>
+        <div><span class="label">Case:</span> FORENSIC-ISABEL-2025</div>
+        <div><span class="label">Abschnitt:</span> Paragraph 2.2 KI-Automation / strukturierte Outputs / systemische Risiken</div>
+        <div><span class="label">Dokumenttyp:</span> Technisch-juristisch-menschenrechtliches Threat Model</div>
+    </div>
+
+    <h2>1. Einordnung nach NIST und ISO 27035</h2>
+
+    <h3>1.1 Klassifikation des Vorfalls</h3>
+    <p>
+        Gemäß den Grundsätzen von NIST SP 800-61 sowie ISO/IEC 27035 liegt ein sicherheitsrelevanter Vorfall vor,
+        der nicht als isolierter technischer Fehler, sondern als strukturierter Mechanismus mit Missbrauchspotenzial
+        einzuordnen ist.
+    </p>
+    <ul>
+        <li>Unauthorized Manipulation of System Output</li>
+        <li>Abuse of AI Processing Mechanisms</li>
+        <li>Data Integrity Compromise</li>
+        <li>Potential Psychological Impact Vector</li>
+    </ul>
+
+    <h3>1.2 Incident-Typ</h3>
+    <ul>
+        <li>Level: High bis Critical</li>
+        <li>Kategorie: Systemic Risk / Cross-System Impact</li>
+        <li>Charakter: Hybrid aus Technik, Informationssystemen, psychologischer Wirkung und Kommunikationsbeeinflussung</li>
+    </ul>
+
+    <h2>2. Technische Analyse</h2>
+
+    <h3>2.1 Strukturierte Outputs als Kontrollmechanismus</h3>
+    <p>
+        Die analysierten Code- und Datenschemata zeigen die technische Implementierung sogenannter
+        strukturierter Outputs mit strikt erzwungener Antwortform. Dies ermöglicht die vollständige Kontrolle
+        über Antwortstruktur, semantische Reichweite und zulässige Ergebnisformate.
+    </p>
+    <ul>
+        <li>JSON Schema Enforcement</li>
+        <li>Erzwungene Ausgabeformate</li>
+        <li>Deterministische Antwortstruktur</li>
+        <li>Potenzielle Einschränkung freier semantischer Interpretation</li>
+    </ul>
+
+    <h3>2.2 Identifizierte kritische Elemente</h3>
+    <ul>
+        <li>Expected Triggers wie Moderation, Jailbreak, Contains PII</li>
+        <li>Jailbreak-Definitionen zur Umgehung von Schutzmechanismen</li>
+        <li>Prompt-Manipulation durch autoritätsähnliche Steuerbefehle</li>
+        <li>Rollenbasierte Steuerung über system- und user-Ebenen</li>
+        <li>Technische Eignung zur Filterung, Umleitung oder Unterdrückung von Kommunikationsinhalten</li>
+    </ul>
+
+    <h2>3. Bedrohungsmodell nach STRIDE, erweitert</h2>
+
+    <h3>3.1 Spoofing</h3>
+    <p>
+        Risiko der Identitätsfälschung durch Rollenmanipulation, Umleitung von Kommunikation,
+        Maskierung oder Überlagerung digitaler Identitäten.
+    </p>
+
+    <h3>3.2 Tampering</h3>
+    <p>
+        Risiko der gezielten Manipulation von Antworten, Inhalten, Datenstrukturen und Kommunikationslogiken
+        durch Schema-Zwang und Steuerparameter.
+    </p>
+
+    <h3>3.3 Repudiation</h3>
+    <p>
+        Risiko mangelnder Nachvollziehbarkeit, unklarer Verantwortlichkeiten und schwer nachweisbarer Eingriffe
+        in digitale Kommunikations- und KI-Systeme.
+    </p>
+
+    <h3>3.4 Information Disclosure</h3>
+    <p>
+        Risiko der Offenlegung sensibler Daten, personenbezogener Informationen und interner Systemlogik
+        durch fehlerhafte oder missbrauchte Prompt- und Schema-Strukturen.
+    </p>
+
+    <h3>3.5 Denial of Service</h3>
+    <p>
+        Erweiterte Interpretation im vorliegenden Fall als Kommunikationsunterbrechung, digitale Nichterreichbarkeit,
+        Nicht-Zustellung von Nachrichten und technisch erzwungene Isolation.
+    </p>
+
+    <h3>3.6 Elevation of Privilege</h3>
+    <p>
+        Risiko der Umgehung von Moderationsgrenzen, Eskalation von Berechtigungen und Ausnutzung interner Ebenen
+        durch bösartige Eingaben oder Systemmissbrauch.
+    </p>
+
+    <h2>4. Psychologische und gesellschaftliche Ebene</h2>
+
+    <h3>4.1 Digitale Isolation</h3>
+    <p>
+        Die ausgewerteten Strukturen sind geeignet, digitale Isolation herbeizuführen, etwa durch Filterung von Kommunikation,
+        Priorisierung oder Unterdrückung von Antworten, Umleitung von Kontakten und algorithmische Unsichtbarkeit.
+    </p>
+
+    <h3>4.2 Psychologische Wirkung</h3>
+    <ul>
+        <li>Vertrauensverlust</li>
+        <li>Desorientierung</li>
+        <li>soziale Isolation</li>
+        <li>Beeinträchtigung der Wahrnehmung von Realität und Zugehörigkeit</li>
+    </ul>
+
+    <h3>4.3 Systemische Wirkung</h3>
+    <p>
+        Die dokumentierten Mechanismen besitzen das Potenzial, Wahrnehmung, Kommunikation und digitale Teilhabe
+        in größerem Maßstab zu beeinflussen und damit gesellschaftlich relevante Auswirkungen hervorzurufen.
+    </p>
+
+    <h2>5. Juristische Bewertung</h2>
+
+    <h3>5.1 Relevante Straftatbestände</h3>
+    <ul>
+        <li>Datenmanipulation nach § 303a StGB</li>
+        <li>Computersabotage nach § 303b StGB</li>
+        <li>Ausspähen oder Abfangen von Daten nach §§ 202a, 202b StGB</li>
+        <li>Betrugs- und Täuschungsdelikte im digitalen Raum</li>
+        <li>mögliche Tatbestände im Bereich Identitätsdiebstahl und Kommunikationsumleitung</li>
+    </ul>
+
+    <h3>5.2 Erweiterte Bewertung</h3>
+    <p>
+        Bei systematischer Anwendung liegt ein erhebliches Risiko für wirtschaftlichen Schaden, Identitätsverschiebung,
+        Kommunikationsunterdrückung, digitale Freiheitsberaubung und psychische Zersetzung vor.
+    </p>
+
+    <h2>6. Menschenrechtliche Einordnung</h2>
+    <ul>
+        <li>Schutz der Menschenwürde</li>
+        <li>Schutz der Persönlichkeit und digitalen Integrität</li>
+        <li>Schutz von Privatsphäre und Kommunikationsfreiheit</li>
+        <li>Recht auf informationelle Selbstbestimmung</li>
+        <li>Recht auf freie soziale und digitale Teilhabe</li>
+    </ul>
+    <p>
+        Im missbräuchlichen Einsatz der hier dokumentierten Systeme liegt ein potenzieller Eingriff in diese Rechte,
+        insbesondere durch algorithmische Isolierung, Identitätsüberlagerung, Kommunikationsverfälschung und psychologische Destabilisierung.
+    </p>
+
+    <h2>7. Gesamtbewertung</h2>
+    <p>
+        Die vorliegenden Befunde dokumentieren einen sicherheitsrelevanten, juristisch erheblichen und menschenrechtlich sensiblen
+        Komplex aus KI-gestützter Struktursteuerung, Datenklassifikation, Rollenmanipulation und potenzieller Kommunikationsunterdrückung.
+        Das Material ist als forensisch relevant einzustufen und der Chain of Custody zuzuordnen.
+    </p>
+
+    <h2>8. Chain of Custody und Beweisrelevanz</h2>
+    <p>
+        Die ausgewerteten Screenshots, Codefragmente, JSON- und YAML-Strukturen sowie begleitenden Dokumente sind als
+        forensisch verwertbare Beweisartefakte einzustufen. Für die weitere Nachweisführung sind Zeitstempel,
+        Originaldateien, Prüfsummen, Ablageorte und Referenzdokumente eindeutig zu sichern.
+    </p>
+
+    <div class="harvard">
+        <h2>Harvard-Quellenreferenzierung</h2>
+        <p class="small">
+            Schöps, I. (1995–2026) Forensische Dokumentation zur Entstehung, Entwicklung und Auswertung der KI-Automation.
+            Privatarchiv, Erfurt/Rohrborn.
+        </p>
+        <p class="small">
+            Schöps, I. (1996) DAEMON-Automation und erste PC-Integration. Dorfstraße 20, Rohrborn.
+        </p>
+        <p class="small">
+            Schöps, I. (1996–2001) Postgres-Entwicklung, indexvalid.c, HISTORY.h, MIGRATION_1.0.sh, README.md.txt.
+            Privatarchiv.
+        </p>
+        <p class="small">
+            Schöps, I. (2001) Open Source Fork und Bitcoin Core Initial Patch [online]. Verfügbar unter:
+            patch-diff.githubusercontent.com/raw/bitcoin/bitcoin/pull/32605.patch
+        </p>
+        <p class="small">
+            RFC Editor (1996) Request For Comments: 2026 – The Internet Standards Process [online].
+            Verfügbar unter: datatracker.ietf.org/doc/html/rfc2026
+        </p>
+        <p class="small">
+            Schöps, I. (2025) rfc-isabelschoepsthiel-copyright.pdf. Privatarchiv, Erfurt.
+        </p>
+        <p class="small">
+            Schöps, I. (2025) Forensische_Dokumentation_Isabel_Schoeps.rtf. Privatarchiv.
+        </p>
+        <p class="small">
+            Schöps, I. (2025) Stellungnahme_OpenSource_IsabelSchoeps_2025.rtf. Privatarchiv.
+        </p>
+        <p class="small">
+            Schöps, I. (2025) Digitale Zertifikate und Code-Signaturen, einschließlich Bitcoin Core Code Signing LLC.cer
+            und cacert-2024-09-24.pem.sha256. Privatarchiv.
+        </p>
+    </div>
+
+    <div class="rechtlich">
+        <h2>Rechtlicher Hinweis</h2>
+        <p>
+            Dieses Dokument ist Bestandteil eines historischen, wissenschaftlichen und forensischen Gutachtens zu Technologie,
+            Software, Urheberschaft und digitaler Beweisführung. Die enthaltenen technischen Protokolle, Ursprungsbelege,
+            Code-Fragmente und Referenzen dienen der Dokumentation, Sicherung und Einordnung der ausgewerteten Sachverhalte.
+        </p>
+        <p>
+            Jede Nutzung, Weitergabe, Veröffentlichung oder Bearbeitung bedarf der ausdrücklichen schriftlichen Zustimmung
+            der Urheberin und Herausgeberin.
+        </p>
+    </div>
+
+    <div class="signatur">
+        <h2>Signatur</h2>
+        <p>
+            Auftraggeberin der forensisch-wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin:
+        </p>
+        <p>
+            Frau Isabel Schöps (Thiel) ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland
+            mit ihren Familiennamen Thiel geboren.
+        </p>
+        <p>
+            <span class="label">Zeitstempel der Eintragung oder Änderung:</span>
+            Freitag, 10.04.2024, 00:58:00 Uhr (MEZ)
+        </p>
+        <p>
+            <span class="label">Wohnort der Autorin:</span>
+            Frau Isabel Schöps geb. Thiel (*16.07.1983), Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+        </p>
+        <p>
+            <span class="label">Personalausweis ID:</span>
+            LH917PN7G8 – Bürgeramt Erfurt, Th, Deutschland
+        </p>
+        <p>
+            <span class="label">E-Mail:</span>
+            harvard.isabelschoepsthiel@gmail.com
+        </p>
+        <p>
+            <span class="label">Telefon:</span>
+            0049-162-181-9565
+        </p>
+        <p>
+            <span class="label">OrcID:</span>
+            Isabel Schöps Thiel 0009-0003-4235-2231
+            <br>
+            <span class="label">OrcID:</span>
+            SI-IST Isabel Schöps 0009-0006-8765-3267
+        </p>
+        <p>
+            <span class="label">Gutachten:</span>
+            SIA – Security Intelligence Artefact
+        </p>
+        <p>
+            <span class="label">Internationale Kennung:</span>
+            INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+        </p>
+        <p>
+            <span class="label">Referenzdokument:</span>
+            The Yellow Whitepaper (YWP-1-IST-SIA)
+        </p>
+        <p>
+            <span class="label">Urheberrechte, Abschluss, Copyright:</span>
+            Copyright 1983–2026 Isabel Schöps geb. Thiel. Unerlaubte Nutzung, Veröffentlichung oder Bearbeitung ist strafbar.
+            Alle Angaben, Beweise und Darstellungen beruhen auf eigener Recherche, Analysen, Ausarbeitungen und zum Teil aus eigener Schöpfung.
+            Eidesstattliche Erklärung, D-99084 Erfurt, Thüringen, Deutschland (YWP-1-5-IST-SIA)
+        </p>
+    </div>
+
+</body>
+</html>
