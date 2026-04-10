@@ -1,0 +1,263 @@
+<!DOCTYPE html>  
+<html lang="de">  
+<head>  
+<meta charset="UTF-8">  
+<title>Threat Model – INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL</title>  
+  
+<style>  
+  
+@page {  
+    size: A4;  
+    margin: 2.5cm 2cm 2.5cm 2cm;  
+}  
+  
+body {  
+    font-family: Georgia, "Times New Roman", serif;  
+    color: #000;  
+    line-height: 1.5;  
+    font-size: 12pt;  
+}  
+  
+h1 {  
+    font-size: 18pt;  
+    margin-bottom: 10px;  
+}  
+  
+h2 {  
+    font-size: 14pt;  
+    margin-top: 25px;  
+    margin-bottom: 6px;  
+    border-bottom: 1px solid #000;  
+}  
+  
+h3 {  
+    font-size: 12pt;  
+    margin-top: 15px;  
+    margin-bottom: 4px;  
+}  
+  
+p {  
+    margin: 6px 0;  
+    text-align: justify;  
+}  
+  
+ul {  
+    margin: 5px 0 10px 20px;  
+}  
+  
+li {  
+    margin-bottom: 4px;  
+}  
+  
+.section {  
+    page-break-inside: avoid;  
+}  
+  
+.header-box {  
+    border: 1px solid #000;  
+    padding: 10px;  
+    margin-bottom: 20px;  
+}  
+  
+.footer-note {  
+    margin-top: 30px;  
+    font-size: 10pt;  
+}  
+  
+.page-break {  
+    page-break-before: always;  
+}  
+  
+.small {  
+    font-size: 10pt;  
+}  
+  
+.bold {  
+    font-weight: bold;  
+}  
+  
+</style>  
+</head>  
+  
+<body>  
+  
+<h1>Forensisches Bedrohungsmodell</h1>  
+  
+<div class="header-box">  
+    <p><span class="bold">Aktenzeichen:</span> INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</p>  
+    <p><span class="bold">Case:</span> FORENSIC-ISABEL-2025</p>  
+    <p><span class="bold">Abschnitt:</span> Paragraph 2.2 KI-Automation / strukturierte Outputs</p>  
+</div>  
+  
+<div class="section">  
+<h2>1. Einordnung nach NIST und ISO 27035</h2>  
+  
+<p>  
+Gemäß NIST SP 800-61 und ISO/IEC 27035 liegt ein sicherheitsrelevanter Vorfall vor,  
+der als systemischer Mechanismus mit Missbrauchspotenzial einzustufen ist.  
+</p>  
+  
+<ul>  
+<li>Manipulation von Systemausgaben</li>  
+<li>Missbrauch von KI-Verarbeitungssystemen</li>  
+<li>Integritätsverletzung von Daten</li>  
+<li>Psychologischer Einflussvektor</li>  
+</ul>  
+  
+<p>  
+Der Vorfall ist als kritisch mit systemübergreifender Wirkung einzuordnen.  
+</p>  
+</div>  
+  
+<div class="section">  
+<h2>2. Technische Analyse</h2>  
+  
+<h3>2.1 Strukturierte Outputs</h3>  
+<p>  
+Die analysierten Strukturen zeigen eine strikt erzwungene Ausgabeform über JSON-Schemata,  
+welche die Kontrolle über Inhalte und Antwortlogik ermöglichen.  
+</p>  
+  
+<ul>  
+<li>Schema-Zwang (strict mode)</li>  
+<li>Deterministische Antwortstrukturen</li>  
+<li>Kontrollierte semantische Ausgabe</li>  
+</ul>  
+  
+<h3>2.2 Kritische Komponenten</h3>  
+  
+<ul>  
+<li>Trigger-Systeme (Moderation, Jailbreak, PII)</li>  
+<li>Jailbreak-Mechanismen zur Umgehung von Schutzsystemen</li>  
+<li>Prompt-Injection-Strukturen</li>  
+<li>Rollenbasierte Steuerung (system / user)</li>  
+</ul>  
+  
+</div>  
+  
+<div class="section">  
+<h2>3. Bedrohungsmodell (STRIDE)</h2>  
+  
+<h3>Spoofing</h3>  
+<p>Identitätsfälschung durch Rollenmanipulation.</p>  
+  
+<h3>Tampering</h3>  
+<p>Manipulation von Inhalten und Antwortlogik.</p>  
+  
+<h3>Repudiation</h3>  
+<p>Fehlende Nachvollziehbarkeit von Eingriffen.</p>  
+  
+<h3>Information Disclosure</h3>  
+<p>Offenlegung sensibler Daten und Systemlogiken.</p>  
+  
+<h3>Denial of Service</h3>  
+<p>Kommunikationsunterbrechung und digitale Nichterreichbarkeit.</p>  
+  
+<h3>Elevation of Privilege</h3>  
+<p>Umgehung von Zugriffsbeschränkungen.</p>  
+  
+</div>  
+  
+<div class="section">  
+<h2>4. Psychologische und gesellschaftliche Wirkung</h2>  
+  
+<p>  
+Die analysierten Mechanismen sind geeignet, digitale Isolation zu erzeugen,  
+insbesondere durch Einschränkung von Kommunikation und algorithmische Unsichtbarkeit.  
+</p>  
+  
+<ul>  
+<li>Vertrauensverlust</li>  
+<li>Isolation</li>  
+<li>Desorientierung</li>  
+</ul>  
+  
+</div>  
+  
+<div class="section">  
+<h2>5. Juristische Bewertung</h2>  
+  
+<ul>  
+<li>Datenmanipulation (§ 303a StGB)</li>  
+<li>Computersabotage (§ 303b StGB)</li>  
+<li>Ausspähen von Daten (§ 202a StGB)</li>  
+<li>Digitale Täuschung und Betrug</li>  
+</ul>  
+  
+</div>  
+  
+<div class="section">  
+<h2>6. Menschenrechtliche Einordnung</h2>  
+  
+<ul>  
+<li>Schutz der Menschenwürde</li>  
+<li>Recht auf Privatsphäre</li>  
+<li>Kommunikationsfreiheit</li>  
+<li>Digitale Selbstbestimmung</li>  
+</ul>  
+  
+</div>  
+  
+<div class="section">  
+<h2>7. Gesamtbewertung</h2>  
+  
+<p>  
+Die vorliegenden technischen Strukturen stellen ein sicherheitsrelevantes System mit  
+erheblichem Missbrauchspotenzial dar und sind als forensisch relevant einzustufen.  
+</p>  
+  
+</div>  
+  
+<div class="page-break"></div>  
+  
+<h2>Harvard-Zitation</h2>  
+  
+<p class="small">  
+Schöps, I. (1995–2026). Forensische Dokumentation zur KI-Automation. Privatarchiv.  
+</p>  
+<p class="small">  
+Schöps, I. (2001). Technologische Entwicklungen im Bereich Open Source und Blockchain.  
+</p>  
+<p class="small">  
+RFC Editor (1996). RFC 2026 – Internet Standards Process.  
+</p>  
+  
+<h2>Rechtlicher Hinweis</h2>  
+  
+<p class="small">  
+Dieses Dokument ist Bestandteil eines forensischen Gutachtens.  
+Jede Nutzung oder Weitergabe ohne Zustimmung ist unzulässig.  
+</p>  
+  
+<h2>Signatur</h2>  
+  
+<p class="small">  
+Auftraggeberin der Auswertung: Isabel Schöps (Thiel), geboren am 16.07.1983 in Sömmerda.  
+</p>  
+  
+<p class="small">  
+Zeitstempel: Freitag, 10.04.2024, 00:58:00 Uhr (MEZ)  
+</p>  
+  
+<p class="small">  
+Wohnort: Hütergasse 4, 99084 Erfurt, Deutschland  
+</p>  
+  
+<p class="small">  
+E-Mail: harvard.isabelschoepsthiel@gmail.com  
+</p>  
+  
+<p class="small">  
+ORCID: 0009-0003-4235-2231  
+</p>  
+  
+<p class="small">  
+Gutachten: SIA – Security Intelligence Artefact  
+</p>  
+  
+<p class="small">  
+Copyright 1983–2026 Isabel Schöps Thiel  
+</p>  
+  
+</body>  
+</html>  

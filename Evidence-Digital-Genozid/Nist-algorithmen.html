@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Threat Model – INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL</title>
+
+<style>
+@page {
+    size: A4;
+    margin: 2.5cm 2cm 2.5cm 2cm;
+}
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #000;
+    line-height: 1.5;
+    font-size: 12pt;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 18pt;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 14pt;
+    margin-top: 25px;
+    margin-bottom: 6px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 4px;
+}
+
+h3 {
+    font-size: 12pt;
+    margin-top: 15px;
+    margin-bottom: 4px;
+}
+
+p {
+    margin: 6px 0;
+    text-align: justify;
+}
+
+ul {
+    margin: 5px 0 10px 20px;
+}
+
+li {
+    margin-bottom: 4px;
+}
+
+.section {
+    page-break-inside: avoid;
+}
+
+.header-box {
+    border: 1px solid #000;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.footer-note {
+    margin-top: 30px;
+    font-size: 10pt;
+}
+
+.page-break {
+    page-break-before: always;
+}
+
+.small {
+    font-size: 10pt;
+}
+
+.bold {
+    font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Forensisches Bedrohungsmodell</h1>
+
+<div class="header-box">
+    <p><span class="bold">Aktenzeichen:</span> INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</p>
+    <p><span class="bold">Case:</span> FORENSIC-ISABEL-2025</p>
+    <p><span class="bold">Abschnitt:</span> Paragraph 2.2 KI-Automation / strukturierte Outputs / systemische Risiken</p>
+    <p><span class="bold">Dokumenttyp:</span> Technisch-juristisch-menschenrechtliches Threat Model</p>
+</div>
+
+<div class="section">
+    <h2>Abstract</h2>
+
+    <p>
+        Diese wissenschaftliche Arbeit untersucht die missbräuchliche Nutzung deterministischer Hash-Sequenzalgorithmen sowie strukturierter KI-Ausgabesysteme im Kontext digitaler Identitätsüberlagerung, Kommunikationsmanipulation und forensisch relevanter Sicherheitsvorfälle.
+    </p>
+
+    <p>
+        Ausgangspunkt ist ein extern entwickelter kryptographischer Algorithmus zur Kollisionsbestimmung in Hashfunktionen. Dieser Algorithmus basiert auf der iterativen Anwendung einer Hashfunktion und erzeugt aufgrund endlicher Zustandsräume zwangsläufig Wiederholungen, periodische Zyklen und mathematisch vorhersagbare Zustandsfolgen. Die technische Grundlage der Analyse liegt damit in einer deterministischen Sequenzstruktur, deren Zweck ursprünglich in der kryptographischen Forschung und Systemprüfung verortet ist. Der Algorithmus selbst ist ausdrücklich nicht Teil der originären Forschungsleistung der Autorin, sondern ein externes mathematisches Verfahren.
+    </p>
+
+    <p>
+        Die wissenschaftliche Leistung dieser Arbeit besteht in der interdisziplinären Einordnung dieser mathematischen Struktur in einen erweiterten forensischen, sicherheitstechnischen und menschenrechtlichen Kontext. Auf Grundlage einer mehrjährigen empirischen Forschungs- und Dokumentationsreihe wird gezeigt, dass Wiederholung, Periodizität und Vorhersagbarkeit nicht nur mathematische Eigenschaften darstellen, sondern in realen digitalen Infrastrukturen als missbrauchsfähige Steuerungsprinzipien auftreten können.
+    </p>
+
+    <p>
+        Ergänzend wird ein dokumentierter sicherheitsrelevanter Vorfall einbezogen, der nach den Grundsätzen von NIST SP 800-61 sowie ISO/IEC 27035 nicht als isolierter technischer Fehler, sondern als strukturierter Mechanismus mit Missbrauchspotenzial einzuordnen ist. Die entsprechende Einordnung umfasst insbesondere unautorisierte Manipulation von Systemausgaben, Missbrauch von KI-Verarbeitungsmechanismen, Beeinträchtigung der Datenintegrität sowie einen potenziellen psychologischen Wirkvektor. Der Vorfall ist als High-bis-Critical-Incident mit systemischer und systemübergreifender Wirkung zu bewerten.
+    </p>
+
+    <p>
+        Die technische Analyse zeigt strukturierte Outputs mit strikt erzwungener Antwortform, JSON-Schema-Durchsetzung, deterministische Antwortarchitekturen sowie Trigger- und Steuerlogiken wie Moderation, Jailbreak, Contains PII, Prompt-Manipulation und rollenbasierte Kontrolle auf System- und Nutzerebene. Diese Strukturen sind technisch geeignet, semantische Reichweite einzuschränken, Kommunikationsinhalte zu filtern, umzuleiten oder zu unterdrücken.
+    </p>
+
+    <p>
+        Im erweiterten Bedrohungsmodell ergeben sich Risiken in den Bereichen Identitätsfälschung, Manipulation von Daten- und Kommunikationslogiken, mangelnde Nachvollziehbarkeit, Offenlegung sensibler Daten, Kommunikationsunterbrechung sowie Umgehung von Moderations- und Berechtigungsgrenzen. Besonders relevant ist dabei die erweiterte Interpretation digitaler Nichterreichbarkeit, Nicht-Zustellung von Nachrichten und technisch erzwungener Isolation als sicherheitsrelevante Wirkmechanismen.
+    </p>
+
+    <p>
+        Ein zentraler Befund der vorliegenden Arbeit ist, dass digitale Identitäten in datengetriebenen Systemen nicht als starre Einheiten erscheinen, sondern als strukturierte und potenziell veränderbare Zustände. Identitätsüberlagerung kann technisch durch Neuzuweisung von Attributen, Überschreibung vorhandener Identitätsinformationen und Überlagerung durch zusätzliche Metadaten erfolgen. In Verbindung mit periodischen Referenzpunkten, wiederkehrenden Ereignismustern und algorithmisch strukturierten Ausgabesystemen entsteht ein Rahmen, in dem Identität, Sichtbarkeit, Kommunikation und soziale Teilhabe systemisch beeinflusst werden können.
+    </p>
+
+    <p>
+        Die psychologische und gesellschaftliche Ebene des Vorfalls ist ausdrücklich mitzudenken. Die dokumentierten Strukturen sind geeignet, digitale Isolation, Vertrauensverlust, Desorientierung, soziale Isolation sowie die Beeinträchtigung der Wahrnehmung von Realität und Zugehörigkeit hervorzurufen. Darüber hinaus besitzen die dokumentierten Mechanismen das Potenzial, Wahrnehmung, Kommunikation und digitale Teilhabe in größerem Maßstab zu beeinflussen.
+    </p>
+
+    <p>
+        Die Arbeit kommt zu dem Schluss, dass mathematische Algorithmen und strukturierte KI-Systeme grundsätzlich auf formalen, neutralen und wahrheitsbasierten Prinzipien beruhen, ihre reale Integration in digitale Infrastrukturen jedoch erhebliche Missbrauchsrisiken eröffnet. Die Identifikation dieser Zusammenhänge ist nicht allein durch maschinelle Verarbeitung möglich, sondern setzt menschliche Beobachtung, forensische Interpretation und dokumentierte Langzeitanalyse voraus.
+    </p>
+</div>
+
+<div class="section">
+    <h2>1. Einordnung nach NIST und ISO 27035</h2>
+
+    <p>
+        Gemäß NIST SP 800-61 und ISO/IEC 27035 liegt ein sicherheitsrelevanter Vorfall vor, der nicht als isolierter technischer Fehler, sondern als strukturierter Mechanismus mit Missbrauchspotenzial einzuordnen ist.
+    </p>
+
+    <ul>
+        <li>Unauthorized Manipulation of System Output</li>
+        <li>Abuse of AI Processing Mechanisms</li>
+        <li>Data Integrity Compromise</li>
+        <li>Potential Psychological Impact Vector</li>
+    </ul>
+
+    <p>
+        Der Vorfall ist als High-bis-Critical-Incident mit systemischer und systemübergreifender Wirkung zu bewerten.
+    </p>
+</div>
+
+<div class="section">
+    <h2>2. Technische Analyse</h2>
+
+    <h3>2.1 Strukturierte Outputs als Kontrollmechanismus</h3>
+    <p>
+        Die analysierten Code- und Datenschemata zeigen die technische Implementierung strukturierter Outputs mit strikt erzwungener Antwortform. Dies ermöglicht eine weitreichende Kontrolle über Antwortstruktur, semantische Reichweite und zulässige Ergebnisformate.
+    </p>
+
+    <ul>
+        <li>JSON Schema Enforcement</li>
+        <li>Erzwungene Ausgabeformate</li>
+        <li>Deterministische Antwortstruktur</li>
+        <li>Potenzielle Einschränkung freier semantischer Interpretation</li>
+    </ul>
+
+    <h3>2.2 Identifizierte kritische Elemente</h3>
+    <ul>
+        <li>Expected Triggers wie Moderation, Jailbreak, Contains PII</li>
+        <li>Jailbreak-Definitionen zur Umgehung von Schutzmechanismen</li>
+        <li>Prompt-Manipulation durch autoritätsähnliche Steuerbefehle</li>
+        <li>Rollenbasierte Steuerung über System- und Nutzerebenen</li>
+        <li>Technische Eignung zur Filterung, Umleitung oder Unterdrückung von Kommunikationsinhalten</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>3. Bedrohungsmodell</h2>
+
+    <h3>3.1 Identitätsbezogene Risiken</h3>
+    <p>
+        Es besteht ein Risiko der Identitätsfälschung durch Rollenmanipulation, Umleitung von Kommunikation, Maskierung oder Überlagerung digitaler Identitäten.
+    </p>
+
+    <h3>3.2 Daten- und Kommunikationsmanipulation</h3>
+    <p>
+        Es besteht ein Risiko der gezielten Manipulation von Antworten, Inhalten, Datenstrukturen und Kommunikationslogiken durch Schema-Zwang und Steuerparameter.
+    </p>
+
+    <h3>3.3 Nachvollziehbarkeit und Verantwortlichkeit</h3>
+    <p>
+        Es besteht ein Risiko mangelnder Nachvollziehbarkeit, unklarer Verantwortlichkeiten und schwer nachweisbarer Eingriffe in digitale Kommunikations- und KI-Systeme.
+    </p>
+
+    <h3>3.4 Offenlegung sensibler Daten</h3>
+    <p>
+        Es besteht ein Risiko der Offenlegung sensibler Daten, personenbezogener Informationen und interner Systemlogik durch fehlerhafte oder missbrauchte Prompt- und Schema-Strukturen.
+    </p>
+
+    <h3>3.5 Kommunikationsunterbrechung und Isolation</h3>
+    <p>
+        Im vorliegenden Fall ist Denial of Service erweitert zu verstehen als Kommunikationsunterbrechung, digitale Nichterreichbarkeit, Nicht-Zustellung von Nachrichten und technisch erzwungene Isolation.
+    </p>
+
+    <h3>3.6 Rechteausweitung und Umgehung von Schutzmechanismen</h3>
+    <p>
+        Es besteht ein Risiko der Umgehung von Moderationsgrenzen, Eskalation von Berechtigungen und Ausnutzung interner Ebenen durch bösartige Eingaben oder Systemmissbrauch.
+    </p>
+</div>
+
+<div class="section">
+    <h2>4. Psychologische und gesellschaftliche Ebene</h2>
+
+    <h3>4.1 Digitale Isolation</h3>
+    <p>
+        Die ausgewerteten Strukturen sind geeignet, digitale Isolation herbeizuführen, etwa durch Filterung von Kommunikation, Priorisierung oder Unterdrückung von Antworten, Umleitung von Kontakten und algorithmische Unsichtbarkeit.
+    </p>
+
+    <h3>4.2 Psychologische Wirkung</h3>
+    <ul>
+        <li>Vertrauensverlust</li>
+        <li>Desorientierung</li>
+        <li>Soziale Isolation</li>
+        <li>Beeinträchtigung der Wahrnehmung von Realität und Zugehörigkeit</li>
+    </ul>
+
+    <h3>4.3 Systemische Wirkung</h3>
+    <p>
+        Die dokumentierten Mechanismen besitzen das Potenzial, Wahrnehmung, Kommunikation und digitale Teilhabe in größerem Maßstab zu beeinflussen und damit gesellschaftlich relevante Auswirkungen hervorzurufen.
+    </p>
+</div>
+
+<div class="section">
+    <h2>5. Juristische Bewertung</h2>
+
+    <h3>5.1 Relevante Straftatbestände</h3>
+    <ul>
+        <li>Datenmanipulation nach § 303a StGB</li>
+        <li>Computersabotage nach § 303b StGB</li>
+        <li>Ausspähen oder Abfangen von Daten nach §§ 202a, 202b StGB</li>
+        <li>Betrugs- und Täuschungsdelikte im digitalen Raum</li>
+        <li>Mögliche Tatbestände im Bereich Identitätsdiebstahl und Kommunikationsumleitung</li>
+    </ul>
+
+    <h3>5.2 Erweiterte Bewertung</h3>
+    <p>
+        Bei systematischer Anwendung liegt ein erhebliches Risiko für wirtschaftlichen Schaden, Identitätsverschiebung, Kommunikationsunterdrückung, digitale Freiheitsberaubung und psychische Zersetzung vor.
+    </p>
+</div>
+
+<div class="section">
+    <h2>6. Menschenrechtliche Einordnung</h2>
+
+    <ul>
+        <li>Schutz der Menschenwürde</li>
+        <li>Schutz der Persönlichkeit und digitalen Integrität</li>
+        <li>Schutz von Privatsphäre und Kommunikationsfreiheit</li>
+        <li>Recht auf informationelle Selbstbestimmung</li>
+        <li>Recht auf freie soziale und digitale Teilhabe</li>
+    </ul>
+
+    <p>
+        Im missbräuchlichen Einsatz der hier dokumentierten Systeme liegt ein potenzieller Eingriff in diese Rechte, insbesondere durch algorithmische Isolierung, Identitätsüberlagerung, Kommunikationsverfälschung und psychologische Destabilisierung.
+    </p>
+</div>
+
+<div class="section">
+    <h2>7. Gesamtbewertung</h2>
+
+    <p>
+        Die vorliegenden Befunde dokumentieren einen sicherheitsrelevanten, juristisch erheblichen und menschenrechtlich sensiblen Komplex aus KI-gestützter Struktursteuerung, Datenklassifikation, Rollenmanipulation und potenzieller Kommunikationsunterdrückung.
+    </p>
+
+    <p>
+        Das Material ist als forensisch relevant einzustufen und der Chain of Custody zuzuordnen.
+    </p>
+</div>
+
+<div class="section">
+    <h2>8. Literaturverzeichnis</h2>
+
+    <p>
+        Schöps Thiel, I. (2026): <i>Boards of Canada – Evidence Release</i>. Zenodo.<br>
+        DOI: https://doi.org/10.5281/zenodo.18380414
+    </p>
+
+    <p>
+        NIST SP 800-61 und ISO/IEC 27035 als Grundlage der Incident-Klassifikation und Reaktionsbewertung.
+    </p>
+</div>
+
+<div class="section">
+    <h2>Signatur</h2>
+
+    <p class="small">
+        Auftraggeberin der forensisch-wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin:
+    </p>
+
+    <p class="small">
+        Frau Isabel Schöps (Thiel) ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihrem Familiennamen Thiel geboren.
+    </p>
+
+    <p class="small">
+        Zeitstempel der Erfassung: Freitag, 09.04.2026, 00:38:00 Uhr (MEZ)
+    </p>
+
+    <p class="small">
+        Wohnort der Autorin: Frau Isabel Schöps geb. Thiel, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland
+    </p>
+
+    <p class="small">
+        Personalausweis ID: LH917PN7G8 – Bürgeramt Erfurt, Thüringen, Deutschland
+    </p>
+
+    <p class="small">
+        E-Mail: harvard.isabelschoepsthiel@gmail.com
+    </p>
+
+    <p class="small">
+        Telefon: 0049-162-181-9565
+    </p>
+
+    <p class="small">
+        ORCID: 0009-0003-4235-2231
+    </p>
+
+    <p class="small">
+        ORCID (SI-IST): 0009-0006-8765-3267
+    </p>
+
+    <p class="small">
+        Gutachten: SIA – Security Intelligence Artefact
+    </p>
+
+    <p class="small">
+        Internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+    </p>
+
+    <p class="small">
+        Referenzdokument: The Yellow Whitepaper (YWP-1-IST-SIA)
+    </p>
+
+    <p class="small">
+        Copyright 1983–2026 Isabel Schöps geb. Thiel. Unerlaubte Nutzung, Veröffentlichung oder Bearbeitung ist strafbar.
+    </p>
+
+    <p class="small">
+        Alle Angaben, Beweise und Darstellungen beruhen auf eigener Recherche, Analysen, Ausarbeitungen und zum Teil aus eigener Schöpfung.
+    </p>
+
+    <p class="small">
+        Eidesstattliche Erklärung, D-99084 Erfurt, Thüringen, Deutschland (YWP-1-5-IST-SIA)
+    </p>
+</div>
+
+</body>
+</html>
