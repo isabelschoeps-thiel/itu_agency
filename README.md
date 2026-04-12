@@ -2,9 +2,9 @@
 ## Dissertation zur Erlangung der Doktoren- und Professorinnen Würdigung in Informatik 
 ## abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D. & Phil.D)
 
-**Prüfer dieser Dissertation:**  Multiple-Peer-Preview Prüfverfahren 
+**Leitender Prüfer:** Herr Prof. Dr. Alan M. Garber (Harvard University as its 31st President) im Multiple-Peer-Preview Prüfverfahren 
 
-**Leitende Fakultät:** Harvard 
+**Leitende Fakultät:** Harvard University, Massachusetts Hall, Cambridge, MA 02138, USA 
 
 **Eingereicht:** Freitag, den 10. April 2026
 
@@ -53,8 +53,10 @@ Frau Isabel Schöps geborene Thiel, (*16.07.1983), Hütergasse 4, D-99084 Erfurt
 YWP-1-5-IST-SIA
 
 **Wichtige-Referenzdatenbank:**
-Die Boards of Canda, Datenbank samt Auswertung, habe ich, Frau Isabel Schöps geb. Thiel, bereits im Januar 2026 auf Zenodo hochgeladen und veröffentlicht. Hier habe ich noch in der Cyriakstrasse 30c in D-99094 Erfurt gelebt. *isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo.* [https://doi.org/10.5281/zenodo.18380414
-(https://doi.org/10.5281/zenodo.18380414)
+
+**Isabel Schöps geb. Thiel and Schöps geb. Thiel, I. (2026)** “isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release”. Zenodo (Cern), University of Oxford UK, University of Cambridge UK, US University Harvard Leitende Fakultät, Deep-Web-Forschung Dissertation zur Erlangung der Doktoren- und Professoren-Würdigung - abgeschlossene Forschungsarbeit zu Erlangen eins Doktorgrad (Ph.D. und Phil.D im Bereich der Informatik, Deepweb-Forschung Prüfer dieser Dissertation: Multiple-Peer-Preview Prüfverfahren angewandt Leitender Prüfer: Herr Prof. Dr. Alan M. Garber (Harvard University as its 31st President). [doi:10.5281/zenodo.18380414.](https://doi.org/10.5281/zenodo.18380414)
+
+**Hinweis:** Die Datenbank samt Auswertung, habe ich, Frau Isabel Schöps geb. Thiel, bereits im Januar 2026 auf Zenodo hochgeladen und veröffentlicht. Hier habe ich noch in der Cyriakstrasse 30c in D-99094 Erfurt gelebt. *isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo.* [https://doi.org/10.5281/zenodo.18380414](https://doi.org/10.5281/zenodo.18380414)
 
 ---
 
@@ -1263,7 +1265,7 @@ Zudem muss zu 100% Menschen, Personen, geben, die an den Fakultäten Harvard, Ca
 
 **Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
 
-**Zeitstempel der Eintragung oder Änderung:** Donnerstag, 09.04.2026, 21:17:00 Uhr (MEZ)  
+**Zeitstempel der Erfassung oder Änderung:** Sonntag, 12.04.2026, 15:24:00 Uhr (MEZ)  
 
 **Wohnort der Autorin:**
 Frau Isabel Schöps geb. Thiel (*16.07.1983),
