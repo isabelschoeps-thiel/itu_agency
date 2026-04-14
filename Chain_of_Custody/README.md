@@ -28,9 +28,10 @@ Chain of Custody Dokumentation
 
 Internationale_Menschenrechte_Verfahren",
 
-**Evidence-Links Chain of Custody, Manipulation, Fakenews, Datenverzehrung, Diebstahl, Quellbewise, Matrix :**
+**Evidence-Links Chain of Custody, Manipulation, Fakenews, Datenverzehrung, Diebstahl, Quellbewise, Matrix, Lügen Narrativ :**
 - https://www.yoyaba.com/ (Barmbeker Strasse6, Hamburg - unbekannte Standortmarkierung auf mein Handy)
-- 
+- https://www.scientology.org/
+- https://www.scientology.de
 - [google-driveEvdence](https://drive.google.com/drive/u/0/mobile/folders/1zvOOJpGodEnjqvAiAeXkzOdjWmz1semF/11esYqHdRBjegqSxOFw3bT6R9tHc1P6rl?usp=sharing&pli=1&sort=13&direction=a)
 - https://patents.iec.ch/iec/pa.nsf/pa_h.xsp?v=0#
 - https://www.itu.int/en/ITU-R/study-groups/rsg5/Pages/default.aspx#
