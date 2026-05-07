@@ -54,7 +54,9 @@ YWP-1-5-IST-SIA
 
 **Wichtige-Referenzdatenbank:**
 
-**Schöps geb. Thiel, I. (2026). Deepweb Research - Monarch Programm - Matrix Crime Algorithmen.** Dissertation zur Erlangung der Doktoren- und Professorin-Würdigung in Informatik, abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D. und Phil.D), Zenodo, Springer Verlag. Harvard University US, University of Oxford UK, University of Cambridge UK, JASIT Japan , CERN Genf, Schweiz. [https://doi.org/10.5281/zenodo.19751690](https://doi.org/10.5281/zenodo.19751690)
+**Schöps geb. Thiel, I. (2026). Deepweb Research - Matrix Crime Algorithmen - Teil Abstrakt V aus der SIA Security Intelligence Artefact Forschungsreihe, Manuskript-ID: 20FCS-260888 (semver.org) [Data set].** Zenodo.org CERNE CH, GitHub, Nature Springer Verlag, Harvard University US, University of Oxford UK, University of Cambridge UK, JASIT Japan, Abgeschlossene Forschungsarbeiten, Dissertation Doktoren- und Professorin-Würdigung. Manuskript-ID: FCS-260888. 
+[https://doi.org/10.5281/zenodo.19751690](https://doi.org/10.5281/zenodo.19751690)
+
 
 **Isabel Schöps geb. Thiel and Schöps geb. Thiel, I. (2026)** “isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release”. Zenodo (Cern), University of Oxford UK, University of Cambridge UK, US University Harvard Leitende Fakultät, Deep-Web-Forschung Dissertation zur Erlangung der Doktoren- und Professoren-Würdigung - abgeschlossene Forschungsarbeit zu Erlangen eins Doktorgrad (Ph.D. und Phil.D im Bereich der Informatik, Deepweb-Forschung Prüfer dieser Dissertation: Multiple-Peer-Preview Prüfverfahren angewandt Leitender Prüfer: Herr Prof. Dr. Alan M. Garber (Harvard University as its 31st President). [doi:10.5281/zenodo.18380414.](https://doi.org/10.5281/zenodo.18380414)
 
